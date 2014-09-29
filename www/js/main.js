@@ -134,7 +134,6 @@
 
           xhr.onload = function (oEvent) {
             player.loadData(xhr.response, track, defaultSongTimeout);
-            //self.updatePlaylistDisplay();
             self.updateTrackInfos();
           }.bind(this);
           xhr.send(null);
@@ -172,7 +171,6 @@
             audio.playSong();
             return false;
           });
-
         },
         browseDirectoryStructure: function(root, walking_directory, deepId) {
           var self = this;
@@ -199,7 +197,6 @@
           markup += '</ul>';
           markup += '</li>'
           return markup;
-
         },
         updatePlaylistDisplay: function() {
           var self = this;
@@ -212,7 +209,7 @@
           });
         },
         updateTrackInfos: function() {
-          var trackInfos = player.title + ' by ' + player.author;
+          var trackInfos = player.title + ' by <em class="bg-success">' + player.author + '</em>';
           $(".desc").html(trackInfos);
         }
       };
@@ -243,21 +240,16 @@
 
       });
 
-      $(".action-pause").click(function(){
+      $(".action-stop").click(function(){
         audio.togglePause();
       })
 
-      $(".action-forward").click(function(){
-        audio.playNextSong();
-      });
-
-      $(".action-backward").click(function(){
-        audio.playPreviousSong();
+      $(".action-play").click(function(){
+        audio.playSong();
       });
 
       var audio = new Audio(songs_hierarchy);
       audio.togglePause();
-      //audio.playNextSong();
 
     });
   });
