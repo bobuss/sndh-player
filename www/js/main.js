@@ -27,7 +27,7 @@
 (function($) {
   $( document ).ready(function() {
 
-    $.get('js/files.json', function(songs_hierarchy){
+    $.getJSON('js/files.json', function(songs_hierarchy){
 
       var sampleRate;
 
