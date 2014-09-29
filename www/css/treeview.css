@@ -37,13 +37,12 @@
 
 .css-treeview a
 {
-    color: #00f;
-    text-decoration: none;
+    /*text-decoration: none;*/
 }
 
 .css-treeview a:hover
 {
-    text-decoration: underline;
+    /*text-decoration: underline;*/
 }
 
 .css-treeview input + label + ul

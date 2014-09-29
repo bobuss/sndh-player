@@ -190,7 +190,7 @@
           if (this.songs_hierarchy[walking_directory]['files'].length > 0) {
             this.songs_hierarchy[walking_directory]['files'].forEach(function(file) {
               var link = walking_directory + '/' + file;
-              markup += '<li><a class="song" data-track="' + link + '" href="' + link + '">' + file + '</a></li>';
+              markup += '<li class="song-selector"><a class="song" data-track="' + link + '" href="#' + link + '">' + file + '</a></li>';
             });
           }
 

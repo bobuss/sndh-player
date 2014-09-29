@@ -1,0 +1,16 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+
+
+.song-selector:hover {
+	background: #AAD;
+
+}
+
+.song-selector:hover a{
+	text-decoration: none;
+	color: white;
+}
