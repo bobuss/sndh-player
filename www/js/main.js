@@ -170,7 +170,7 @@
             var track = $(this).attr('data-track');
             self.current_track = '#' + track;
             window.location.hash = track;
-            audio.playSong();
+            self.playSong();
             return false;
           });
         },
@@ -251,6 +251,12 @@
 
       $(".action-play").click(function(){
         audio.playSong();
+      });
+
+      $(window).on('hashchange', function() {
+        audio.current_track = window.location.hash;
+        audio.playSong();
+        return false;
       });
 
       var audio = new Audio(songs_hierarchy);
