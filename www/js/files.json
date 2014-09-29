@@ -1,0 +1,5166 @@
+{
+    "musics": {
+        "directories": [
+            "4-Mat",
+            "505",
+            "7an",
+            "ACC",
+            "Acid",
+            "Adams_CS",
+            "Agrajag",
+            "AiO",
+            "AJT",
+            "Alchemist",
+            "Alice_Amore",
+            "Alx_33",
+            "AN_Cool",
+            "Antichrist",
+            "Archimedes",
+            "Arishem",
+            "Assassin",
+            "Atom",
+            "Atomic",
+            "Azidhouse",
+            "Baggio",
+            "Bak_Phil",
+            "Barlow_Martin",
+            "Barnabas_Andrew",
+            "Barrett_Steve",
+            "Beast",
+            "Beben_Wally",
+            "Biasillo_Gari",
+            "Big_Alec",
+            "Bishop_Philip",
+            "Blind-Io",
+            "Bodenstandig_2000",
+            "Bogas_Ed",
+            "Brimble_Allister",
+            "Brooke_Jas_C",
+            "Brovosky_Ladislav_John",
+            "Buster",
+            "Camp_Geoff",
+            "Cann_D",
+            "Captain_Headcrash",
+            "Carbon",
+            "Celtic",
+            "Cerror",
+            "Chaplin_Damon",
+            "Chilton_Mike",
+            "Chris_Mad",
+            "Chrispy_Noodle",
+            "Chromex",
+            "Clayton_Ric",
+            "Collier_Kevin",
+            "Connolly_Sean",
+            "Connor",
+            "Conran_Sean",
+            "Cooksey_Mark",
+            "Cooper",
+            "Cornelius_Orall",
+            "Count_Zero",
+            "Crawdaddy",
+            "Crazy_Q",
+            "Crossley_Neil",
+            "Cube",
+            "D-Force",
+            "Daglish_Ben",
+            "Dalecki_Adrian",
+            "Damo",
+            "Danko",
+            "Danny_Oneway",
+            "Dark_Angel",
+            "Das_Jeremy",
+            "Davies_Mike",
+            "Davis_Debbie",
+            "Demming_Robert",
+            "Demon_X",
+            "Deneb",
+            "Denman_Chris",
+            "Deutsch_Barry",
+            "Divag",
+            "Dma-Sc",
+            "Doclands",
+            "Dolby",
+            "Donald_Fakk",
+            "Dr_Beat",
+            "Dr_Kaya",
+            "Dubmood",
+            "Dunn_Jonathan",
+            "ear_dis",
+            "Eldrich_the_Cat",
+            "Elof",
+            "Energizer",
+            "ENS_Music",
+            "Epic",
+            "Evil",
+            "Excellence_In_Art",
+            "FFT",
+            "Flogel_Jan_Mrsic",
+            "Floopy",
+            "Follin_Tim",
+            "Forestcreature",
+            "Fothergill_Aaron",
+            "Frazer",
+            "French_Chris",
+            "Frequent",
+            "Full_FX",
+            "Furax",
+            "Furniss_Matt",
+            "Gargamel",
+            "Gary",
+            "Gehrmann_Holger",
+            "Goodley_Ross",
+            "Gray_Fred",
+            "Green_J",
+            "Guard_Christopher",
+            "gwEm",
+            "Hard_N_Soft",
+            "Haupt_Christian",
+            "Havoc",
+            "Helene",
+            "Herbert_Alex",
+            "Hinsley_Chris",
+            "Hogg_Ashley",
+            "Housemania",
+            "Howie_Steve",
+            "Hubbard_Rob",
+            "Huelsbeck_Chris",
+            "Illusion",
+            "Insomnia",
+            "Inzerillo_Peter",
+            "ISO",
+            "Ithnell_Darren",
+            "Iveson_Martin",
+            "Jason",
+            "JB_007",
+            "Jedi",
+            "Jerowski_Stefan",
+            "Jess",
+            "Jet_Power",
+            "Johnson_Peter",
+            "Jones_Nick",
+            "Jookie",
+            "Joseph_Richard",
+            "Jovis",
+            "Kanewood",
+            "Kelly_Dave",
+            "Kenet",
+            "Kennett_Gordon",
+            "Kenny_D",
+            "Ksouri_Eric",
+            "Lap",
+            "Lee_Lee",
+            "Lees_Anthony",
+            "Legace_Ken",
+            "Leitch_Barry",
+            "Linde_Philip",
+            "Loony",
+            "Lord",
+            "Loriaux_Pierre-Eric",
+            "Lorraine_Paul",
+            "Lotek_Style",
+            "Lotus",
+            "Lowe_Al",
+            "Lowe_Dave",
+            "LTK",
+            "Luebke",
+            "Lundberg_Mikael",
+            "Maclean_Archer",
+            "Mad_Max",
+            "Maktone",
+            "Marcer",
+            "Martin_Jos_A",
+            "Marvin_Tom",
+            "Mate",
+            "Max",
+            "McGinty_Andi",
+            "Medek_Jon",
+            "Mephisto",
+            "Miggy",
+            "Miq",
+            "Modmate",
+            "Monk",
+            "Monkhouse_Bob",
+            "Morgan",
+            "MSG",
+            "Munsie_Dave",
+            "naPO",
+            "Nemo",
+            "Neubauer_Carsten",
+            "New_Frequency",
+            "Nexus",
+            "Nexus_6",
+            "Nightbeat",
+            "No_More",
+            "Oakley_Andrew",
+            "Obarski_Karsten",
+            "Orbiter",
+            "Outlander",
+            "Oz",
+            "Page_Jason",
+            "Parrish_Chris",
+            "Peace",
+            "Perconti_Carlo",
+            "Phelan_Patrick",
+            "Phillips_John_Michael",
+            "Piscol_Jurgen",
+            "Pleiss_Detlef",
+            "Powapixel",
+            "Prince_Donovan",
+            "Pritchard_Nigel",
+            "Quinn_Mark",
+            "Ralph",
+            "Redzone",
+            "Remalon",
+            "Remo",
+            "Rhino",
+            "Riff",
+            "Robinson_Ron",
+            "Robotham_Paul",
+            "Rogers_Dave",
+            "Rowbotham_Paul",
+            "Rubbish",
+            "Rude_Kid",
+            "Ruttman_Haiko",
+            "Salkin",
+            "Sally",
+            "Sarek",
+            "Scarim_Nick",
+            "Scavenger",
+            "Scharvona_Justin",
+            "Schemantix",
+            "Schmx",
+            "Schuh_Paul",
+            "Scudds_Chris",
+            "Scy",
+            "Sen_Nik",
+            "Severn_Andy",
+            "Sevin_Yann",
+            "Sh3",
+            "Shaft",
+            "Shields_Paul",
+            "Shockley_Tim",
+            "Skidz",
+            "Skinnybone",
+            "Skyline",
+            "Sonic",
+            "Sparky",
+            "Spector",
+            "Starbuck",
+            "Stax",
+            "Stember_Rudi",
+            "Stu",
+            "T1000",
+            "Tangens",
+            "Tankard_Paul",
+            "Tao",
+            "Taylor_Andrew",
+            "Tebirod",
+            "Techno",
+            "The_Fate",
+            "The_Mind",
+            "The_Source",
+            "The_Spoon",
+            "Thomas",
+            "Thomson_Jim",
+            "Thothy",
+            "Timbral",
+            "Tinman_Keith",
+            "Titan",
+            "Tomchi",
+            "Tonge_Paul",
+            "Toodeloo",
+            "Tooseb",
+            "TPM",
+            "Tyan",
+            "Ultimatum",
+            "Ultra",
+            "Ultrasyd",
+            "Unknown_Composer",
+            "Vidovic_Augustin",
+            "Viking",
+            "Wahoo",
+            "Walden_Tom",
+            "Walker_Martin",
+            "Ward_Justin",
+            "WE_Music",
+            "Weichselbaum_Markus",
+            "Wheaton_Gary",
+            "Wheterill_Steve",
+            "Whittaker_David",
+            "Williams_Tony",
+            "Wilson_Mark",
+            "Winogradoff_Michel",
+            "Wolfgang",
+            "Wootan_Harry",
+            "Zabutom"
+        ],
+        "files": []
+    },
+    "musics/4-Mat": {
+        "directories": [],
+        "files": [
+            "Arcade_Classix_Hiscore.sndh",
+            "Beastbusters.sndh",
+            "Bubble_Dizzy.sndh",
+            "Chuck_Rock.sndh",
+            "Dizzy-Prince_Of_Yolkfolk.sndh",
+            "Dynamo.sndh",
+            "G-Loc.sndh",
+            "Heimdall.sndh",
+            "Magic_Dizzy.sndh",
+            "Shadow_Dancer.sndh",
+            "Space_Gun.sndh",
+            "Spot.sndh",
+            "Warzone.sndh"
+        ]
+    },
+    "musics/505": {
+        "directories": [
+            "DMA"
+        ],
+        "files": [
+            "052.sndh",
+            "13th.sndh",
+            "17th.sndh",
+            "18th.sndh",
+            "19th.sndh",
+            "6th.sndh",
+            "8x8_Hero.sndh",
+            "96shades.sndh",
+            "ACM-Phlegm_Bleepz.sndh",
+            "ACM-Rectangular_Waves.sndh",
+            "ACM-Tribal.sndh",
+            "Ahead.sndh",
+            "Another_Brick_In_The_Wall.sndh",
+            "Antique.sndh",
+            "Aragorn-UCM_22.sndh",
+            "Attack.sndh",
+            "Bambi.sndh",
+            "Bla.sndh",
+            "Blue_Snow_(D-Bug_184a).sndh",
+            "Brutal_Act.sndh",
+            "Checkpoint_Xmas_2003_1.sndh",
+            "Checkpoint_Xmas_2003_2.sndh",
+            "Checkpoint_Xmas_2003_3.sndh",
+            "Checkpoint_Xmas_2003_4.sndh",
+            "Chippy.sndh",
+            "Clouds.sndh",
+            "Clowns.sndh",
+            "Coffee_Break.sndh",
+            "CPU_Eater.sndh",
+            "Disco_Slide.sndh",
+            "Dosk.sndh",
+            "Drooling.sndh",
+            "Easy.sndh",
+            "Erde.sndh",
+            "Error_In_Line_2_Invite.sndh",
+            "Everything.sndh",
+            "Fabo.sndh",
+            "Factored.sndh",
+            "Faster.sndh",
+            "Focky_2.sndh",
+            "For_the_Moon.sndh",
+            "Fukk_2.sndh",
+            "fullscreen_digin.sndh",
+            "Gauloise.sndh",
+            "Glas.sndh",
+            "Glenz.sndh",
+            "Gloomy.sndh",
+            "Greetings.sndh",
+            "Headaxe.sndh",
+            "Heaven_Sucks.sndh",
+            "Hmmm_one-EIL3_invite.sndh",
+            "Hussa-TOYS_Nostalgic.sndh",
+            "Huzt.sndh",
+            "Hybrid.sndh",
+            "Hysteria-Posh_demo.sndh",
+            "I_Want_Sid.sndh",
+            "Ice_Storm.sndh",
+            "Jingle01.sndh",
+            "Joe_Cool.sndh",
+            "Jumper.sndh",
+            "Jumps.sndh",
+            "Keeping_Alive.sndh",
+            "Kill_Bill.sndh",
+            "Krabbencocktail.sndh",
+            "Lajbkalg.sndh",
+            "Lala.sndh",
+            "Lame_Lups.sndh",
+            "Leave_it-Alive_4.sndh",
+            "Long_Ago.sndh",
+            "Loop01.sndh",
+            "Louder_1.sndh",
+            "Manic-YM_Rockerz.sndh",
+            "Melodie.sndh",
+            "Modulation_2_Intro.sndh",
+            "Moesrave_(Birthtro).sndh",
+            "More_Sun.sndh",
+            "Morphonic.sndh",
+            "Mystic_Bytes_2.sndh",
+            "Mystic_Bytes_3.sndh",
+            "Nowhere.sndh",
+            "Old_crap_(UCM_22).sndh",
+            "Pacemaker.sndh",
+            "Paracon_8.sndh",
+            "Paradox_Xmas_2003_1.sndh",
+            "Paradox_Xmas_2003_2.sndh",
+            "Pilz_(D-Bug_174).sndh",
+            "Posh-Part_1.sndh",
+            "Posh-Part_2.sndh",
+            "Posh-Part_3.sndh",
+            "Posh-Part_4.sndh",
+            "Posh-Part_5.sndh",
+            "Psycho.sndh",
+            "Reasonless.sndh",
+            "Sid_Rave_3.sndh",
+            "Sinesinger.sndh",
+            "Smiley.sndh",
+            "Smurfy.sndh",
+            "Space.sndh",
+            "Sphere.sndh",
+            "ST_Tri_Sound.sndh",
+            "Stage_Completed-YM_Rockerz.sndh",
+            "Sunny.sndh",
+            "Sure_Trip-Part_1.sndh",
+            "Sure_Trip-Part_2.sndh",
+            "Sure_Trip-Part_3.sndh",
+            "Surprise.sndh",
+            "Sweet.sndh",
+            "Test.sndh",
+            "Thing.sndh",
+            "Thrust.sndh",
+            "TK_Machine.sndh",
+            "Too_Hard.sndh",
+            "Trace_Intro.sndh",
+            "Triplex_02.sndh",
+            "Tripping.sndh",
+            "UCM_11.sndh",
+            "UCM_11_Intro_(endpart).sndh",
+            "UCM_11_Intro_(greetings).sndh",
+            "UCM_12-Song_1.sndh",
+            "UCM_12-Song_2.sndh",
+            "UCM_14.sndh",
+            "UCM_15.sndh",
+            "Upbuzzer.sndh",
+            "Useless.sndh",
+            "Vagrant.sndh",
+            "Warm_Up.sndh",
+            "x2004.sndh",
+            "Xmas.sndh",
+            "YM_Pop.sndh",
+            "You_Bore_(D-Bug_180).sndh",
+            "Zirkuss.sndh",
+            "Zymplix.sndh"
+        ]
+    },
+    "musics/505/DMA": {
+        "directories": [],
+        "files": [
+            "Again.sndh",
+            "Certain_Range.sndh",
+            "Cyborg_Clubbing.sndh",
+            "More_Or_Less_Zero.sndh",
+            "Nuance.sndh",
+            "On_Behalf_Of_the_Queen.sndh",
+            "P7_Action.sndh",
+            "Parkbank.sndh",
+            "Phazer.sndh",
+            "Sequences.sndh",
+            "Shredder.sndh",
+            "YM2006.sndh"
+        ]
+    },
+    "musics/7an": {
+        "directories": [],
+        "files": [
+            "Blip_1.sndh",
+            "Blip_2.sndh",
+            "Blip_3.sndh",
+            "Blip_4.sndh"
+        ]
+    },
+    "musics/ACC": {
+        "directories": [],
+        "files": [
+            "ACC_Song.sndh",
+            "Ala_Turk.sndh",
+            "Badine.sndh",
+            "Beguine.sndh",
+            "City_Road.sndh",
+            "Copy_Star_1_8.sndh",
+            "King_of_the_Road.sndh",
+            "Michella.sndh",
+            "Popcorn.sndh"
+        ]
+    },
+    "musics/AJT": {
+        "directories": [],
+        "files": [
+            "Beachtro.sndh",
+            "Colorz.sndh"
+        ]
+    },
+    "musics/AN_Cool": {
+        "directories": [],
+        "files": [
+            "45-King.sndh",
+            "Atari_Baby.sndh",
+            "M-Demo_4.sndh",
+            "So_Watt-2_Life_Crew.sndh",
+            "So_Watt-AN_Bass.sndh",
+            "So_Watt-Techatron.sndh",
+            "TCB_Tracker.sndh",
+            "Zuzzexx.sndh"
+        ]
+    },
+    "musics/Acid": {
+        "directories": [],
+        "files": [
+            "Blue_Boys_Stuff_11.sndh",
+            "TBB_Font_Compil_3.sndh",
+            "TBB_Mod_Compil_32.sndh"
+        ]
+    },
+    "musics/Adams_CS": {
+        "directories": [],
+        "files": [
+            "Head_Coach.sndh"
+        ]
+    },
+    "musics/Agrajag": {
+        "directories": [],
+        "files": [
+            "3_5k_Megademo_Menu.sndh"
+        ]
+    },
+    "musics/AiO": {
+        "directories": [],
+        "files": [
+            "Error_In_Line_3-Invite_end.sndh",
+            "Revive_Me.sndh",
+            "Spritze.sndh"
+        ]
+    },
+    "musics/Alchemist": {
+        "directories": [],
+        "files": [
+            "Rare_(Endpart).sndh",
+            "Rare_(Main_part).sndh",
+            "TUC_Big_Floppy_People_06.sndh"
+        ]
+    },
+    "musics/Alice_Amore": {
+        "directories": [],
+        "files": [
+            "Auld_Lang_Syne.sndh",
+            "Opus_25_Chopin.sndh"
+        ]
+    },
+    "musics/Alx_33": {
+        "directories": [],
+        "files": [
+            "BJ.sndh",
+            "Bulbing.sndh",
+            "Sam.sndh",
+            "Wow.sndh",
+            "Yng.sndh"
+        ]
+    },
+    "musics/Antichrist": {
+        "directories": [],
+        "files": [
+            "Chelou_No.sndh",
+            "Christelle.sndh",
+            "Concours_CSC2.sndh",
+            "Coolbass.sndh",
+            "Enigma.sndh",
+            "Low_Tune.sndh",
+            "Melody.sndh",
+            "New_History.sndh",
+            "Oceans.sndh",
+            "Oh_No.sndh",
+            "Sad_Tune.sndh",
+            "Sandras_Land.sndh",
+            "Slow.sndh",
+            "Speedzak.sndh",
+            "Stephanie.sndh",
+            "Take_Off.sndh",
+            "The_Mystery.sndh",
+            "The_Union.sndh",
+            "Verity.sndh"
+        ]
+    },
+    "musics/Archimedes": {
+        "directories": [],
+        "files": [
+            "Cosmic_Pirate_Emire_Intro.sndh",
+            "Gen-4_3615_Demo.sndh",
+            "Transbeauce_Equinox.sndh"
+        ]
+    },
+    "musics/Arishem": {
+        "directories": [],
+        "files": [
+            "Rigolo_Abstract.sndh"
+        ]
+    },
+    "musics/Assassin": {
+        "directories": [],
+        "files": [
+            "Fun_Fun.sndh"
+        ]
+    },
+    "musics/Atom": {
+        "directories": [],
+        "files": [
+            "TBC_Intro_22.sndh"
+        ]
+    },
+    "musics/Atomic": {
+        "directories": [],
+        "files": [
+            "Last_Hero_(Phaelon_Albedo).sndh"
+        ]
+    },
+    "musics/Azidhouse": {
+        "directories": [],
+        "files": [
+            "ZPC_Demo.sndh"
+        ]
+    },
+    "musics/Baggio": {
+        "directories": [],
+        "files": [
+            "Bajs_2.sndh",
+            "Compo.sndh",
+            "Demo_Test.sndh",
+            "Magmakt.sndh",
+            "Ode_To_Inspiration.sndh",
+            "PMP_Sug.sndh",
+            "Softly.sndh",
+            "Speed_E_is_spooky.sndh",
+            "Spritze.sndh",
+            "Teddy_(UCM_20_Intro).sndh",
+            "Tut-Finale_(end_tune).sndh",
+            "Tut-Rape_Me_(main_tune).sndh",
+            "Xmas_sux.sndh"
+        ]
+    },
+    "musics/Bak_Phil": {
+        "directories": [],
+        "files": [
+            "Yolanda.sndh"
+        ]
+    },
+    "musics/Barlow_Martin": {
+        "directories": [],
+        "files": [
+            "Violator.sndh"
+        ]
+    },
+    "musics/Barnabas_Andrew": {
+        "directories": [],
+        "files": [
+            "SWIV_(Silkworm_IV).sndh"
+        ]
+    },
+    "musics/Barrett_Steve": {
+        "directories": [],
+        "files": [
+            "Advanced_Fruit_Machine_Sim.sndh",
+            "Advanced_Skiing_Simulator.sndh",
+            "Chronicles_of_Omega.sndh",
+            "Italy_1990.sndh",
+            "Kelly_X.sndh",
+            "SAS_Combat_Simulator.sndh",
+            "Super_Grand_Prix.sndh",
+            "Treasure_Island_Dizzy.sndh",
+            "Violator.sndh"
+        ]
+    },
+    "musics/Beast": {
+        "directories": [],
+        "files": [
+            "Basstep_2.sndh",
+            "Beast_2.sndh",
+            "Beast_New.sndh",
+            "Bla_Bla_Bla.sndh",
+            "Blaackel.sndh",
+            "Boring.sndh",
+            "Dodi_Dodi.sndh",
+            "Evert.sndh",
+            "If_Pigs_Could_Fly_(Main).sndh",
+            "Oldie.sndh",
+            "Shitt.sndh",
+            "Snabblat.sndh",
+            "Suuuuuvk.sndh",
+            "The_Syndicate_22.sndh",
+            "The_Syndicate_31.sndh",
+            "The_Syndicate_99.sndh",
+            "Unknown_Blipblopper.sndh",
+            "Xemispoy.sndh",
+            "Yopsimex.sndh"
+        ]
+    },
+    "musics/Beben_Wally": {
+        "directories": [],
+        "files": [
+            "CBS_Chess.sndh",
+            "Circus_Games.sndh",
+            "Do_Run_Run.sndh",
+            "Elite.sndh",
+            "Foundation_Waste.sndh",
+            "Hammer_Fist.sndh",
+            "Hawkeye.sndh",
+            "Hyperdrome.sndh",
+            "I-Ball.sndh",
+            "Lancaster.sndh",
+            "Liberator.sndh",
+            "Phantasm.sndh",
+            "Quartz.sndh",
+            "R-Type.sndh",
+            "Roadwars.sndh",
+            "Street_Fighter.sndh",
+            "Summer_Olympiad.sndh",
+            "The_Ballgame.sndh",
+            "Time_Machine.sndh",
+            "Total_Eclipse.sndh",
+            "Ultima_V_WarriorsOfDestiny.sndh",
+            "Ultimate_Ride.sndh",
+            "Wicked.sndh"
+        ]
+    },
+    "musics/Biasillo_Gari": {
+        "directories": [],
+        "files": [
+            "Slayer.sndh"
+        ]
+    },
+    "musics/Big_Alec": {
+        "directories": [],
+        "files": [
+            "A_Case_For_Two.sndh",
+            "Action.sndh",
+            "Bangkok_Knights_Loader.sndh",
+            "Crystal_Clear_(Mega_Leif).sndh",
+            "Feardrop.sndh",
+            "Galaxy.sndh",
+            "High_Gear.sndh",
+            "Jazz.sndh",
+            "Judgement_Day_(STNews_72).sndh",
+            "Killer.sndh",
+            "Killer_(digi).sndh",
+            "Locomotion.sndh",
+            "Magick.sndh",
+            "Melancho.sndh",
+            "Musical_Wonder.sndh",
+            "No_Second_Prize.sndh",
+            "Offbeat.sndh",
+            "Poppycock-Intro.sndh",
+            "Poppycock-Sprites.sndh",
+            "Poppycock-Stars.sndh",
+            "Prophecy_(ST_News_11_1).sndh",
+            "Pursuit.sndh",
+            "Pursuit_2.sndh",
+            "PYM-Best_Part_Of_Creation.sndh",
+            "PYM-Change_Disks.sndh",
+            "PYM-Colours_Go_Bang.sndh",
+            "PYM-Copperkaahbaahnaah.sndh",
+            "PYM-Intro_(Prime_Time).sndh",
+            "PYM-Isido_Way_Of_Stones.sndh",
+            "PYM-Loader.sndh",
+            "PYM-Main_Menu.sndh",
+            "PYM-Sickest_So_Far.sndh",
+            "Reality.sndh",
+            "Sanxion_Loader.sndh",
+            "Sanxion_Loader_(digi).sndh",
+            "Stand_By.sndh",
+            "Sticks.sndh",
+            "Structure.sndh",
+            "Traffic.sndh",
+            "Twilight_Beyond.sndh",
+            "Vortex.sndh",
+            "What_Time_Is_It_(Bouncy).sndh",
+            "What_Time_Is_It_(Main).sndh",
+            "What_Time_Is_It_(Scrolly).sndh",
+            "Wicked.sndh"
+        ]
+    },
+    "musics/Bishop_Philip": {
+        "directories": [],
+        "files": [
+            "Dogfight.sndh"
+        ]
+    },
+    "musics/Blind-Io": {
+        "directories": [],
+        "files": [
+            "Decadent.sndh"
+        ]
+    },
+    "musics/Bodenstandig_2000": {
+        "directories": [],
+        "files": [
+            "Die_Wahrheit.sndh",
+            "Highscore_(YM_Rockerz).sndh",
+            "HRVAT.sndh",
+            "Landflucht.sndh"
+        ]
+    },
+    "musics/Bogas_Ed": {
+        "directories": [],
+        "files": [
+            "Aisle_Dance.sndh",
+            "Ballad.sndh",
+            "Bebop.sndh",
+            "Boogie.sndh",
+            "Bossa_Nova.sndh",
+            "Brandenburg_Concerto_2.sndh",
+            "Calypso.sndh",
+            "Country_Too.sndh",
+            "Echo_Rock.sndh",
+            "Fifties.sndh",
+            "Five_Four.sndh",
+            "Folk_Song.sndh",
+            "Harmony.sndh",
+            "Latin.sndh",
+            "Lead_Vocal.sndh",
+            "Pachelbels_Canon_in_D.sndh",
+            "Prelude.sndh",
+            "Requiem.sndh",
+            "Star_Spangled_Banner.sndh",
+            "Tango.sndh",
+            "Walker.sndh",
+            "Waltz.sndh"
+        ]
+    },
+    "musics/Brimble_Allister": {
+        "directories": [],
+        "files": [
+            "1st_Division_Manager.sndh",
+            "Arcade_Classix_Missile_Com.sndh",
+            "Bignose_The_Caveman.sndh",
+            "CJs_Elephant_Antics.sndh",
+            "Fantasy_World_Dizzy.sndh",
+            "Fast_Food.sndh",
+            "Kamikaze.sndh",
+            "Kwik_Snax.sndh",
+            "Mean_Machine.sndh",
+            "Mig_29.sndh",
+            "Pro_Boxing_Simulator.sndh",
+            "Pro_Powerboat_Sim.sndh",
+            "Rampart.sndh",
+            "Robin_Hood-Legend_Quest.sndh",
+            "Seymour_Goes_To_Hollywood.sndh",
+            "Slightly_Magic.sndh",
+            "Spellbound_Dizzy.sndh",
+            "Spellfire_The_Sorceror.sndh",
+            "Super_Seymour.sndh",
+            "Sword_and_the_Rose.sndh",
+            "Terrys_Big_Adventure.sndh",
+            "The_Final_Day.sndh",
+            "The_Sword_and_The_Rose.sndh",
+            "Wacky_Darts.sndh"
+        ]
+    },
+    "musics/Brooke_Jas_C": {
+        "directories": [],
+        "files": [
+            "1943.sndh",
+            "Buggy_Boy.sndh",
+            "Flying_Shark.sndh",
+            "Heavy_Metal.sndh",
+            "Hellfire.sndh",
+            "Ikari_Warriors.sndh",
+            "Outrun.sndh",
+            "Overlander.sndh",
+            "Resolution_101.sndh",
+            "Revenge_Of_Mutant_Camels.sndh",
+            "Rockford.sndh",
+            "Savage.sndh",
+            "Sidearms.sndh",
+            "Starquake.sndh",
+            "Strike.sndh",
+            "Thunderstrike.sndh",
+            "Time_Soldier.sndh",
+            "Vixen.sndh"
+        ]
+    },
+    "musics/Brovosky_Ladislav_John": {
+        "directories": [],
+        "files": [
+            "Hades_Nebula.sndh"
+        ]
+    },
+    "musics/Buster": {
+        "directories": [],
+        "files": [
+            "Impact_(chip).sndh",
+            "Impact_(digi).sndh"
+        ]
+    },
+    "musics/Camp_Geoff": {
+        "directories": [],
+        "files": [
+            "Spider_Spell.sndh"
+        ]
+    },
+    "musics/Cann_D": {
+        "directories": [],
+        "files": [
+            "Steigar.sndh"
+        ]
+    },
+    "musics/Captain_Headcrash": {
+        "directories": [],
+        "files": [
+            "Total_Vision_Inc_3_5k.sndh"
+        ]
+    },
+    "musics/Carbon": {
+        "directories": [],
+        "files": [
+            "UCM_18.sndh"
+        ]
+    },
+    "musics/Celtic": {
+        "directories": [],
+        "files": [
+            "Audial_Overdrive.sndh",
+            "Collision-TFU_Intro.sndh",
+            "Im_The_Deiffel-TFU_End.sndh",
+            "Lethal_Suck.sndh",
+            "Space_Invaders-TFU_Reset.sndh",
+            "Starworx.sndh",
+            "The_Loader_Track.sndh",
+            "Uknown_Trial.sndh"
+        ]
+    },
+    "musics/Cerror": {
+        "directories": [],
+        "files": [
+            "Calculon.sndh",
+            "Cranberry_Part_1.sndh",
+            "Cranberry_Part_2.sndh",
+            "Imaginary_Friend.sndh",
+            "Kicking_it_oldschool.sndh",
+            "Make_Some_Sense.sndh",
+            "Outline.sndh",
+            "River_City_Open.sndh",
+            "Salvator.sndh",
+            "Taoism.sndh",
+            "Very_Bland.sndh"
+        ]
+    },
+    "musics/Chaplin_Damon": {
+        "directories": [],
+        "files": [
+            "Last_Trooper.sndh"
+        ]
+    },
+    "musics/Chilton_Mike": {
+        "directories": [],
+        "files": [
+            "Everton_FC_Intelligensia.sndh",
+            "P47_The_Freedom_Fighter.sndh"
+        ]
+    },
+    "musics/Chris_Mad": {
+        "directories": [],
+        "files": [
+            "Delerious_Mainmenu.sndh",
+            "Overdrive_Dots.sndh",
+            "Overdrive_Dragon.sndh",
+            "Overdrive_Fullscreen.sndh",
+            "Overdrive_Loader.sndh",
+            "Overdrive_Mainmenu.sndh",
+            "Overdrive_Nybble.sndh",
+            "Overdrive_Snurkle.sndh",
+            "Overdrive_Vector.sndh",
+            "Phalanx_3D.sndh",
+            "Phalanx_Crazy.sndh",
+            "Phalanx_Main_Menu.sndh",
+            "Phalanx_Mega_Dister.sndh",
+            "So_Watt-Ghost_Reset.sndh",
+            "Whattaheck-Ghost.sndh"
+        ]
+    },
+    "musics/Chrispy_Noodle": {
+        "directories": [],
+        "files": [
+            "Chrispy_Noodle_1.sndh",
+            "Commando.sndh",
+            "Commando_Hi-Score.sndh",
+            "Hybris.sndh",
+            "Jet_Set_Willy.sndh",
+            "Sapiens_1.sndh",
+            "Sapiens_2.sndh",
+            "Tiger_1.sndh",
+            "Tiger_2.sndh",
+            "Tristar.sndh"
+        ]
+    },
+    "musics/Chromex": {
+        "directories": [],
+        "files": [
+            "Hydroxid_Dentro.sndh"
+        ]
+    },
+    "musics/Clayton_Ric": {
+        "directories": [],
+        "files": [
+            "Thats_The_Way.sndh",
+            "Witchy_Woman.sndh"
+        ]
+    },
+    "musics/Collier_Kevin": {
+        "directories": [],
+        "files": [
+            "Advanced_Tactical_Fighter2.sndh",
+            "Harley_Davison.sndh"
+        ]
+    },
+    "musics/Connolly_Sean": {
+        "directories": [],
+        "files": [
+            "Elvira_Mistress_of_Dark.sndh",
+            "Euro_Soccer.sndh",
+            "Goat_Beard_End.sndh",
+            "Guy_Spy.sndh",
+            "Moving_On.sndh",
+            "No_Mercy.sndh",
+            "Rainy_Day.sndh"
+        ]
+    },
+    "musics/Connor": {
+        "directories": [],
+        "files": [
+            "TFC_Spaceballs_Demo.sndh",
+            "UCM_2_Intro.sndh"
+        ]
+    },
+    "musics/Conran_Sean": {
+        "directories": [],
+        "files": [
+            "Defenders_of_the_Earth.sndh",
+            "Duckula.sndh",
+            "Hong_Kong_Phooey.sndh",
+            "Megatwins.sndh",
+            "Ruff_and_Ready.sndh",
+            "Top_Cat.sndh",
+            "Videokid.sndh",
+            "Wacky_Races.sndh",
+            "WWF_Wrestle_Mania.sndh"
+        ]
+    },
+    "musics/Cooksey_Mark": {
+        "directories": [],
+        "files": [
+            "Commando.sndh",
+            "Crack_Down.sndh",
+            "Forgotten_Worlds.sndh",
+            "Ghost_N_Goblins.sndh",
+            "Gremlins_2.sndh",
+            "Live_and_Let_Die.sndh",
+            "Mighty_Bombjack.sndh",
+            "Paperboy.sndh",
+            "Sega_World_Champ_Soccer.sndh",
+            "World_Champ_Soccer.sndh",
+            "WWF_European_Rampage.sndh"
+        ]
+    },
+    "musics/Cooper": {
+        "directories": [],
+        "files": [
+            "Znax_Hiscores.sndh"
+        ]
+    },
+    "musics/Cornelius_Orall": {
+        "directories": [],
+        "files": [
+            "Enterprise.sndh",
+            "Pyramax.sndh"
+        ]
+    },
+    "musics/Count_Zero": {
+        "directories": [],
+        "files": [
+            "Awesome.sndh",
+            "Count_Zero_Again-Maggie_8.sndh",
+            "Decade_Demo-3D_Mania.sndh",
+            "Decade_Demo-Boot.sndh",
+            "Decade_Demo-Flexiscroll.sndh",
+            "Decade_Demo-Gigadist.sndh",
+            "Decade_Demo-Intro.sndh",
+            "Decade_Demo-Loader.sndh",
+            "Decade_Demo-Main_Menu.sndh",
+            "Decade_Demo-Parascroll.sndh",
+            "Decade_Demo-Pipeworx.sndh",
+            "Decade_Demo-Rasters.sndh",
+            "Decade_Demo-Reset.sndh",
+            "Decade_Demo-WheresMyWilly.sndh",
+            "Go_For_It-Maggie_8.sndh",
+            "Hidden_Easter_Egg.sndh",
+            "Killing_Game_Show.sndh",
+            "Maggie_2.sndh",
+            "Willy_Preview.sndh"
+        ]
+    },
+    "musics/Crawdaddy": {
+        "directories": [],
+        "files": [
+            "Bedtime.sndh",
+            "Blazer.sndh",
+            "Bobsquad.sndh",
+            "Bounty_hunter.sndh",
+            "Chinese_Heroes.sndh",
+            "Chinese_Story.sndh",
+            "Detonation.sndh",
+            "Electric.sndh",
+            "Escape_From_Space.sndh",
+            "Freedom.sndh",
+            "Geg_Force.sndh",
+            "Gods_Theme.sndh",
+            "Hardwired.sndh",
+            "Heroes.sndh",
+            "Hidden.sndh",
+            "In_the_Woods.sndh",
+            "Indian.sndh",
+            "Intro_(cross_the_deserts).sndh",
+            "Japan.sndh",
+            "Kruz.sndh",
+            "LameBrain.sndh",
+            "Leaglity.sndh",
+            "Leavin_Teramis.sndh",
+            "Looking_For_Peace.sndh",
+            "My_Master.sndh",
+            "Ninja.sndh",
+            "No_Way_Out.sndh",
+            "No_Way_Out_(digi).sndh",
+            "Party_Muz.sndh",
+            "Plasma.sndh",
+            "Poing.sndh",
+            "Rezonati.sndh",
+            "Rings_Of_Meusa_Mix.sndh",
+            "Seekers(Cross_The_Deserts).sndh",
+            "Street.sndh",
+            "Surfer_In_Hell.sndh",
+            "The_Cave.sndh",
+            "The_Desert.sndh",
+            "The_Forest.sndh",
+            "The_Last_Cow.sndh",
+            "Tough.sndh",
+            "Village.sndh",
+            "Walkman.sndh",
+            "Whatta_Hell.sndh",
+            "Whatta_Nerd.sndh",
+            "XXX-XXX.sndh"
+        ]
+    },
+    "musics/Crazy_Q": {
+        "directories": [
+            "DMA"
+        ],
+        "files": [
+            "Bouncing_TITS.sndh",
+            "Chameleon.sndh",
+            "Collage_with_a_Moustache.sndh",
+            "Crushed_Insect_(orig).sndh",
+            "Crushed_Insect_(RG_mix).sndh",
+            "DHS_Change_Disk_1.sndh",
+            "Evil_Chip_Of_Dr_Zool.sndh",
+            "G-Spot_(Final_version).sndh",
+            "G-Spot_(Party_version).sndh",
+            "Intro_v2.sndh",
+            "Little_Sexy_Square.sndh",
+            "Live_Vers_Monster_Phunk.sndh",
+            "Mad_Monkey_Funk_Fu.sndh",
+            "Mindwarp.sndh",
+            "Mono_minded_shit.sndh",
+            "Monolouge(1ch Minimalism).sndh",
+            "Nightmare_at_Beatstreeet.sndh",
+            "NWD-Game_Over_Test.sndh",
+            "Outlaw_(Ym_Rockerz).sndh",
+            "Parallax_Lover.sndh",
+            "Phat_and_Phunky_Part_1.sndh",
+            "Phunky_Shapeshifter_2149.sndh",
+            "Punk_Ass_MF.sndh",
+            "Sex_Droid.sndh",
+            "Sexgames.sndh",
+            "Snake_Funk.sndh",
+            "Swingers_Club.sndh",
+            "TAC-2_Memories.sndh",
+            "Timebomb_Loader_II.sndh",
+            "Toxic_Tears_pattern_test.sndh",
+            "Twisted_Life_Style.sndh",
+            "Zipp_Zapp_Space_Attack.sndh",
+            "Znax_ingame_tune_1.sndh",
+            "Znax_ingame_tune_2.sndh"
+        ]
+    },
+    "musics/Crazy_Q/DMA": {
+        "directories": [],
+        "files": [
+            "Fucking_Untight_Shit.sndh"
+        ]
+    },
+    "musics/Crossley_Neil": {
+        "directories": [],
+        "files": [
+            "Hunt_For_Red_October.sndh"
+        ]
+    },
+    "musics/Cube": {
+        "directories": [],
+        "files": [
+            "Admirables_Modcomp_31.sndh",
+            "Admirables_Modcomp_32.sndh",
+            "Agent_Hippel_To_The_Rescue.sndh",
+            "Back_To_Basics.sndh",
+            "Chrome.sndh",
+            "Earth.sndh",
+            "Eye_On_The_Scene.sndh",
+            "Japanese.sndh",
+            "Shasam_(Cross_The_Deserts).sndh",
+            "Stax_Menu_78.sndh",
+            "Water.sndh",
+            "Wind.sndh"
+        ]
+    },
+    "musics/D-Force": {
+        "directories": [],
+        "files": [
+            "Bytes.sndh",
+            "Plink.sndh",
+            "Some_How.sndh",
+            "Summer.sndh",
+            "Treat.sndh",
+            "Treat_Final_Version.sndh"
+        ]
+    },
+    "musics/Daglish_Ben": {
+        "directories": [],
+        "files": [
+            "Action_Fighter.sndh",
+            "Artura.sndh",
+            "Axels_Magic_Hammer.sndh",
+            "Blasteroids.sndh",
+            "Butcher_Hill.sndh",
+            "California_Games.sndh",
+            "Captain_America.sndh",
+            "Chase_HQ.sndh",
+            "Continental_Circus.sndh",
+            "Dark_Fusion.sndh",
+            "Deflektor.sndh",
+            "Dynamite_Dux.sndh",
+            "Federation_Of_Free_Traders.sndh",
+            "Flintstones.sndh",
+            "Footballer_of_the_Year_2.sndh",
+            "Galax.sndh",
+            "Gary_Linekers_Hot_Shots.sndh",
+            "Hate.sndh",
+            "Hotrod.sndh",
+            "Kingmaker.sndh",
+            "Laser_Squad.sndh",
+            "Legends_of_Valour.sndh",
+            "Lotus_Turbo_Espirit.sndh",
+            "Masters_Of_The_Universe.sndh",
+            "Mickey_Mouse.sndh",
+            "Monty_Pythons_FlyingCircus.sndh",
+            "Motor_Massacre.sndh",
+            "Motorhead.sndh",
+            "Munsters.sndh",
+            "Northstar.sndh",
+            "Pac-mania.sndh",
+            "Passing_Shot.sndh",
+            "Prison.sndh",
+            "Rick_Dangerous.sndh",
+            "Rick_Dangerous_2.sndh",
+            "Skidz.sndh",
+            "Super_Scramble_Simulator.sndh",
+            "Supercars.sndh",
+            "Switchblade.sndh",
+            "Terramex.sndh",
+            "The_Running_Man.sndh",
+            "Thunderbirds.sndh",
+            "Ultimate_Darts.sndh",
+            "Ultimate_Golf.sndh",
+            "Winter_Olympiad.sndh",
+            "Wizard_Warz.sndh",
+            "Xybots.sndh"
+        ]
+    },
+    "musics/Dalecki_Adrian": {
+        "directories": [],
+        "files": [
+            "Clownomania.sndh",
+            "Leonardo_1.sndh",
+            "Leonardo_2.sndh",
+            "Logo.sndh",
+            "Rollin_Ronny_A.sndh",
+            "Rollin_Ronny_B.sndh",
+            "Soccer_Manager_Plus.sndh",
+            "Turtle_Table_Tennis.sndh"
+        ]
+    },
+    "musics/Damo": {
+        "directories": [],
+        "files": [
+            "Funktion.sndh",
+            "YM_Rucka.sndh"
+        ]
+    },
+    "musics/Danko": {
+        "directories": [],
+        "files": [
+            "Danko.sndh"
+        ]
+    },
+    "musics/Danny_Oneway": {
+        "directories": [],
+        "files": [
+            "C64.sndh",
+            "Danny.sndh",
+            "Danny_O_Sidsong.sndh",
+            "Drumz.sndh",
+            "Eat_This.sndh",
+            "Frust.sndh",
+            "Hidden_2.sndh",
+            "In_Door.sndh",
+            "Lamebrain1-Danny_die.sndh",
+            "Lamebrain1-Techmoc.sndh",
+            "Lamebrain2-Bomben.sndh",
+            "Lamebrain2-Bubu.sndh",
+            "Lamebrain2-Loader.sndh",
+            "Lamebrain2-Song.sndh",
+            "Logan.sndh",
+            "No_Sheep_In_Mong(digi).sndh",
+            "No_Sheep_In_Mongolia.sndh",
+            "Scoopex.sndh"
+        ]
+    },
+    "musics/Dark_Angel": {
+        "directories": [],
+        "files": [
+            "Ace_2.sndh",
+            "All_Is_Lost.sndh",
+            "Angel_In_Hell.sndh",
+            "Aura_Mix.sndh",
+            "Blood_Theme.sndh",
+            "Blood_Title.sndh",
+            "C94cop.sndh",
+            "Golem_Fever.sndh",
+            "Hop_Jo.sndh",
+            "Hop_Jo_(digi).sndh",
+            "I_Hate_Techno.sndh",
+            "Invaders.sndh",
+            "Its_Spring_Time.sndh",
+            "Kaskades.sndh",
+            "Kaskades_(digi).sndh",
+            "Logic_Force.sndh",
+            "Magic_Force.sndh",
+            "Masters_Of_Shit.sndh",
+            "Mathematica-Seasons(digi).sndh",
+            "Mathematica-Seasons.sndh",
+            "Mathematica_1.sndh",
+            "Mathematica_Intro.sndh",
+            "Metropolitan.sndh",
+            "Mix.sndh",
+            "Mixpart_Remix.sndh",
+            "Mr_X_Must_Die.sndh",
+            "Musicmon_Tunes.sndh",
+            "Noisy_Pillars.sndh",
+            "Oh_Je_Mi_Neeeh.sndh",
+            "On_The_Road.sndh",
+            "Pan_Tau_Kotz.sndh",
+            "Pan_Tau_Kotz_(digi).sndh",
+            "Party_In_Hell.sndh",
+            "Rantan_Plan.sndh",
+            "Shadows_Of_Death.sndh",
+            "Slow_Motion.sndh",
+            "Snork-Logic_Force.sndh",
+            "Straight_Shooter.sndh",
+            "Techno_Stormer.sndh",
+            "Thalion_Intro.sndh",
+            "The_Devil_In_You.sndh",
+            "The_n_Song.sndh",
+            "The_Walk.sndh",
+            "To_be_continued.sndh",
+            "To_be_continued_2.sndh",
+            "Whats_Your_Name.sndh",
+            "X-Out.sndh",
+            "Your_Turn.sndh"
+        ]
+    },
+    "musics/Das_Jeremy": {
+        "directories": [],
+        "files": [
+            "Burger_Man.sndh",
+            "Jungle_Boy.sndh",
+            "Locomotion.sndh",
+            "Oribit_2000.sndh",
+            "Radio_Controlled_Racer.sndh"
+        ]
+    },
+    "musics/Davies_Mike": {
+        "directories": [],
+        "files": [
+            "Alien_Storm.sndh",
+            "Die_Hard_2.sndh",
+            "Dynasty_Wars.sndh",
+            "England_Championship.sndh",
+            "Italia_90.sndh",
+            "Last_Duel.sndh",
+            "Mercs.sndh",
+            "Strider.sndh",
+            "UN_Squadron.sndh"
+        ]
+    },
+    "musics/Davis_Debbie": {
+        "directories": [],
+        "files": [
+            "I_Was_a_Fool.sndh",
+            "Lay_Me_Down.sndh"
+        ]
+    },
+    "musics/Demming_Robert": {
+        "directories": [],
+        "files": [
+            "Nostalgic_O.sndh"
+        ]
+    },
+    "musics/Demon_X": {
+        "directories": [],
+        "files": [
+            "Awesome.sndh",
+            "Dreamzone-Vectorball.sndh"
+        ]
+    },
+    "musics/Deneb": {
+        "directories": [],
+        "files": [
+            "Kidney_Bean-Data.sndh",
+            "Kidney_Bean-Present.sndh",
+            "Plucked_Goose-Fantasy.sndh",
+            "Puppet_Show_Loader.sndh",
+            "Puppet_Show_Menu.sndh"
+        ]
+    },
+    "musics/Denman_Chris": {
+        "directories": [],
+        "files": [
+            "Airbucks.sndh",
+            "Ancient_Games.sndh",
+            "Charge_ofthe_Light_Brigade.sndh",
+            "Cohorrt_2.sndh",
+            "Cool_World.sndh",
+            "Crime_City.sndh",
+            "Cyber_Cop.sndh",
+            "Discovery.sndh",
+            "Feudal_Lords.sndh",
+            "Fort_Apache.sndh",
+            "International_Championship.sndh",
+            "Legend_of_the_Lost.sndh",
+            "ProSoccer_2190.sndh",
+            "Rorkes_Drift.sndh",
+            "Samurai_Way_of_Warrior.sndh",
+            "Seige_Master.sndh",
+            "Striker.sndh",
+            "Tornado_Ground_Attack.sndh",
+            "Warriors_Of_Relyene.sndh",
+            "Web_of_Terror.sndh"
+        ]
+    },
+    "musics/Deutsch_Barry": {
+        "directories": [],
+        "files": [
+            "Santa_Clause.sndh",
+            "The_Next_Time_I_Fall.sndh"
+        ]
+    },
+    "musics/Divag": {
+        "directories": [],
+        "files": [
+            "La_potato.sndh"
+        ]
+    },
+    "musics/Dma-Sc": {
+        "directories": [
+            "DMA"
+        ],
+        "files": [
+            "Alive_7_Intro.sndh",
+            "Burton_Tribute_Project.sndh",
+            "Chipping_for_Cash.sndh",
+            "Chipster_(UCM_14).sndh",
+            "Clean_Closet_(UCM_19).sndh",
+            "CRAUFunk.sndh",
+            "Cybernetic_Dancer.sndh",
+            "Disco_Fizz.sndh",
+            "Doskopus_(UCM_18).sndh",
+            "ExoCooper.sndh",
+            "Fantasia_Tune_1.sndh",
+            "Fantasia_Tune_2.sndh",
+            "Fantasia_Tune_3.sndh",
+            "Fighting_His_Fears.sndh",
+            "First_Sid.sndh",
+            "Flying_Over_The_Earth.sndh",
+            "Forgotten_Figures.sndh",
+            "Gr00vix.sndh",
+            "Heaven_Is_A_Place_On_Earth.sndh",
+            "Its_Live_(Alive_4).sndh",
+            "Magical_Drop-1_Player_1.sndh",
+            "Magical_Drop-1_Player_2.sndh",
+            "Magical_Drop-2_Players_1.sndh",
+            "Magical_Drop-2_Players_2.sndh",
+            "Magical_Drop-2_Players_3.sndh",
+            "Magical_Drop-2_Players_4.sndh",
+            "Magical_Drop-Introduction.sndh",
+            "Magical_Drop-Menu.sndh",
+            "Magnetic_Mind.sndh",
+            "Maze_Menu.sndh",
+            "Mr_Boomer.sndh",
+            "Mr_Boomer_Intro.sndh",
+            "Ninja_Action_Fighter.sndh",
+            "O-Style.sndh",
+            "Odd_Stuff-End.sndh",
+            "Odd_Stuff-Main.sndh",
+            "Oric_Demo.sndh",
+            "Pie_Bill_Gates-In_game.sndh",
+            "Pie_Bill_Gates-Menu.sndh",
+            "Pocket_Groove.sndh",
+            "POOZ_Bonus_Tune_(SML_L1).sndh",
+            "POOZ_Highscores.sndh",
+            "POOZ_In_Game.sndh",
+            "POOZ_Intro_Menu.sndh",
+            "POOZ_Mini_Games.sndh",
+            "POOZ_The_Lab.sndh",
+            "Pre_Midnight_Pizza.sndh",
+            "Samtamagochi-Two_In_One.sndh",
+            "Shining_Dance.sndh",
+            "Sidsound_de_Chocobo.sndh",
+            "Spiral_Zone_(UCM_16).sndh",
+            "ST_20th_Ann_Megademo.sndh",
+            "ST_20th_Ann_Megademo_Menu.sndh",
+            "Stars_Of_The_Night.sndh",
+            "Street_Robots.sndh",
+            "Sun_Burns-SV2k_intro.sndh",
+            "Sweety_End.sndh",
+            "The_First_Blip-Blop_Noel.sndh",
+            "Trials.sndh",
+            "UCM_16_Intro.sndh",
+            "Visitors_From_Dreams.sndh",
+            "Wings_Of_Death_Remix.sndh",
+            "Wolf_3D_Ending.sndh",
+            "Wolf_3D_Get_Them.sndh",
+            "Wolf_3D_High_Score.sndh",
+            "Wolf_3D_Interlude.sndh",
+            "Wolf_3D_Wondering_About.sndh",
+            "Wonderland_Speedway.sndh",
+            "YM_Racing.sndh"
+        ]
+    },
+    "musics/Dma-Sc/DMA": {
+        "directories": [],
+        "files": [
+            "Bubble_Days.sndh",
+            "Travellers.sndh"
+        ]
+    },
+    "musics/Doclands": {
+        "directories": [],
+        "files": [
+            "Blastiny_Bobs.sndh",
+            "Delerious_Demo2-Reset.sndh",
+            "Docklands_Sid.sndh",
+            "European_Demos-Mainmenu.sndh",
+            "Frenetic.sndh",
+            "Lightning_Demo-Beast.sndh",
+            "Lightning_Demo-Plasma.sndh",
+            "Ventura-Main_Menu.sndh",
+            "Zak.sndh",
+            "Zoomer_Preview-FOF.sndh"
+        ]
+    },
+    "musics/Dolby": {
+        "directories": [],
+        "files": [
+            "A_New_Great_Sound.sndh",
+            "Piece_Of_Shit.sndh"
+        ]
+    },
+    "musics/Donald_Fakk": {
+        "directories": [],
+        "files": [
+            "Beat_Nick.sndh",
+            "Bluespace.sndh",
+            "Countdown.sndh",
+            "Digi_Dick.sndh",
+            "Earth_is_Rotten.sndh",
+            "Earth_is_Rotten_(chip).sndh",
+            "Echoing.sndh",
+            "Echoing_(chip).sndh",
+            "Flum_Hum.sndh",
+            "Hooker.sndh",
+            "Human_Race_Level_4(Chip).sndh",
+            "Human_Race_Level_4.sndh",
+            "ICS_SOTE_Intro.sndh",
+            "ITC_Digi.sndh",
+            "Jag_Rullar.sndh",
+            "Jag_Springer_Fort.sndh",
+            "Ko_And_Kossa.sndh",
+            "Kvant_Krull_Kompott.sndh",
+            "Leif.sndh",
+            "Leif_(Chip).sndh",
+            "Porkchop_(Logical mix).sndh",
+            "Praeludium.sndh",
+            "Pressure.sndh",
+            "Skit_(Delta Cover).sndh",
+            "Spanking.sndh",
+            "Spanking_(chip).sndh",
+            "Steam_Dream.sndh",
+            "Syntax_Terror_Loader(chip).sndh",
+            "Syntax_Terror_Loader.sndh",
+            "Who_Cares.sndh",
+            "Young.sndh",
+            "Zzzlajm.sndh"
+        ]
+    },
+    "musics/Dr_Beat": {
+        "directories": [],
+        "files": [
+            "Galtan_6_Elite_Intro.sndh",
+            "Galtan_6_Elite_Intro_2.sndh",
+            "Imagination-Enola_Gay.sndh",
+            "Imagination-Many_Minis.sndh",
+            "Imagination-Rollercoaster.sndh",
+            "Imagination-Snake.sndh",
+            "NTM-Crusaders.sndh",
+            "NTM-Dynamic_Duo.sndh",
+            "NTM-Menu.sndh",
+            "NTM-New.sndh",
+            "NTM-Zuul.sndh"
+        ]
+    },
+    "musics/Dr_Kaya": {
+        "directories": [],
+        "files": [
+            "No_Limit_Coding.sndh"
+        ]
+    },
+    "musics/Dubmood": {
+        "directories": [],
+        "files": [
+            "2006_Live_Starfighter.sndh",
+            "2nd_Reality.sndh",
+            "Acid_Jazzed.sndh",
+            "Acid_Jazzed_D-Bug.sndh",
+            "Alla_man_borde_ringt.sndh",
+            "Alla_vill_till_himmelen.sndh",
+            "Alloy_Run.sndh",
+            "Anarchy_Menu_3_(4-Mat).sndh",
+            "Botkyrka_VS_ST_STYLE.sndh",
+            "Bring_Your_Own_Bottle.sndh",
+            "D_Bug_197_jam_version.sndh",
+            "D_Bug_Menu_197.sndh",
+            "Destroy_the_Template.sndh",
+            "Detta_ar_DDR.sndh",
+            "Drumnbice.sndh",
+            "dumtidum_woo_woo.sndh",
+            "Galax.sndh",
+            "Haschkaka_(YM_Rockerz).sndh",
+            "Haschkaka_LiveInterlude.sndh",
+            "Heatbeat_vs_WoTW.sndh",
+            "Herbalizer_Live_Interlude.sndh",
+            "Hybridworms_Funky_Stars.sndh",
+            "Intro_Tune_4_Mat.sndh",
+            "Jesters Chipmunks.sndh",
+            "Kolobki_Vodka_Dance.sndh",
+            "Kompis_tog_fram.sndh",
+            "Loonies_Bio_Hazard.sndh",
+            "Love_Demo_and_Dope.sndh",
+            "Minipitts_vs_wotw_96.sndh",
+            "Monkey_Island.sndh",
+            "MrDeaths_omega_illusion.sndh",
+            "Nukes_Chiptune.sndh",
+            "Pampinterlude.sndh",
+            "Pampradion_livebeat.sndh",
+            "POSTapoclyphse.sndh",
+            "Publicea_i_Media_beat.sndh",
+            "Space_Journey_(extended).sndh",
+            "Speedloader_I.sndh",
+            "Speedloader_II.sndh",
+            "Speedloader_III.sndh",
+            "Starfighter.sndh",
+            "Still_Dream_Alla_Man.sndh",
+            "Tempest_fjortisfacials.sndh",
+            "Toffelskater_Interlude.sndh",
+            "Too_Drunk_to_Fuck.sndh",
+            "Vains_We_are_da_Indians.sndh",
+            "WOTW_Intro_101.sndh",
+            "ym2149_oh_sexy_thing_edit.sndh",
+            "Zabutoms_Bice4.sndh"
+        ]
+    },
+    "musics/Dunn_Jonathan": {
+        "directories": [],
+        "files": [
+            "Batman_The_Movie.sndh",
+            "Battle_Command.sndh",
+            "Darkman.sndh",
+            "Elf-Menu.sndh",
+            "Hook.sndh",
+            "Lethal_Weapon.sndh",
+            "Lost_Patrol.sndh",
+            "Navy_Seals.sndh",
+            "New_Zealand_Story.sndh",
+            "Operation_Thunderbolt.sndh",
+            "Pushover.sndh",
+            "Puzznic.sndh",
+            "Rambo_III.sndh",
+            "Simpsons-Bart_vs_Space.sndh",
+            "Terminator_2.sndh",
+            "The_Addams_Family.sndh",
+            "Wildwheels.sndh"
+        ]
+    },
+    "musics/ENS_Music": {
+        "directories": [],
+        "files": [
+            "ENS_1.sndh",
+            "ENS_2.sndh",
+            "ENS_3.sndh",
+            "ENS_4.sndh",
+            "ENS_5.sndh",
+            "ENS_6.sndh",
+            "ENS_7.sndh",
+            "ENS_8.sndh"
+        ]
+    },
+    "musics/Eldrich_the_Cat": {
+        "directories": [],
+        "files": [
+            "Tusker.sndh"
+        ]
+    },
+    "musics/Elof": {
+        "directories": [],
+        "files": [
+            "Elof_Mix.sndh",
+            "Farvalse.sndh"
+        ]
+    },
+    "musics/Energizer": {
+        "directories": [],
+        "files": [
+            "Avante.sndh",
+            "Crusader.sndh",
+            "Floating.sndh",
+            "Floating_(digi).sndh",
+            "Lazer.sndh"
+        ]
+    },
+    "musics/Epic": {
+        "directories": [],
+        "files": [
+            "Another_Illusion.sndh",
+            "Doc_Dots.sndh",
+            "Epilsons_Nightmare.sndh",
+            "Feed_My_Frankenstein.sndh",
+            "Got_No_Respect_For_Law.sndh",
+            "Japanese_Sunlight.sndh",
+            "Lost_In_Universe.sndh",
+            "Magic_Lame.sndh",
+            "Phototro.sndh",
+            "Sauvage.sndh",
+            "Shoot_All_Coders.sndh",
+            "Stunt_Priest.sndh",
+            "Thats_About_To_Explode.sndh",
+            "Through_the_Never.sndh",
+            "TMS_Dreams.sndh",
+            "Toxic_O_Mania.sndh",
+            "Vixit_In_His_Bath.sndh",
+            "Wizz.sndh",
+            "Wonderful_Scroll.sndh",
+            "World_of_Wonder_Legend.sndh"
+        ]
+    },
+    "musics/Evil": {
+        "directories": [
+            "DMA"
+        ],
+        "files": [
+            "Arpa.sndh"
+        ]
+    },
+    "musics/Evil/DMA": {
+        "directories": [],
+        "files": [
+            "Enola_Gay.sndh"
+        ]
+    },
+    "musics/Excellence_In_Art": {
+        "directories": [],
+        "files": [
+            "Barf.sndh",
+            "Battletris.sndh",
+            "Bebop.sndh",
+            "Bellis_Boot.sndh",
+            "Blommor.sndh",
+            "Circles.sndh",
+            "Concert.sndh",
+            "Deserted.sndh",
+            "DHS_Intro.sndh",
+            "Drumz.sndh",
+            "Elftec.sndh",
+            "Elftec_2.sndh",
+            "Frostys_Music.sndh",
+            "Frostys_Music_2.sndh",
+            "Get_Into_The_Groove.sndh",
+            "Gritty.sndh",
+            "Heathers.sndh",
+            "Hidden.sndh",
+            "Hit_Me.sndh",
+            "I_Wonder.sndh",
+            "Jingle.sndh",
+            "Kitten.sndh",
+            "Lynx_Tune.sndh",
+            "Mike_Mix.sndh",
+            "Musolini.sndh",
+            "New.sndh",
+            "Nice.sndh",
+            "No.sndh",
+            "Offbeat.sndh",
+            "Oxygene_4.sndh",
+            "Prince_Ig.sndh",
+            "Runner.sndh",
+            "Smile.sndh",
+            "Sonik.sndh",
+            "Spunge.sndh",
+            "Stolen.sndh",
+            "Summer.sndh",
+            "Sweat.sndh",
+            "Sweep.sndh",
+            "Sweep_2.sndh",
+            "Talk_Talk_Loader.sndh",
+            "Tarzan.sndh",
+            "Top_Gun.sndh",
+            "Tra_La_La.sndh"
+        ]
+    },
+    "musics/FFT": {
+        "directories": [],
+        "files": [
+            "Phaelon-Beast_1.sndh",
+            "Phaelon-Beast_2.sndh"
+        ]
+    },
+    "musics/Flogel_Jan_Mrsic": {
+        "directories": [],
+        "files": [
+            "Bombjack.sndh",
+            "Fireblaster.sndh",
+            "Metropolis.sndh",
+            "Warzone.sndh"
+        ]
+    },
+    "musics/Floopy": {
+        "directories": [],
+        "files": [
+            "Cassiope.sndh",
+            "Quasar.sndh",
+            "Rapide_01.sndh",
+            "Speeder.sndh",
+            "Teletubb.sndh",
+            "Vivevent.sndh",
+            "Xmas_03_Tune_3.sndh"
+        ]
+    },
+    "musics/Follin_Tim": {
+        "directories": [],
+        "files": [
+            "Bionic_Commando.sndh",
+            "Bubble_Bobble.sndh",
+            "Gauntlet_III.sndh",
+            "Ghouls_N_Ghosts.sndh",
+            "Led_Storm.sndh",
+            "Renegade.sndh",
+            "Sly_Spy.sndh"
+        ]
+    },
+    "musics/Forestcreature": {
+        "directories": [
+            "DMA"
+        ],
+        "files": [
+            "Bois_De_La_Biere.sndh"
+        ]
+    },
+    "musics/Forestcreature/DMA": {
+        "directories": [],
+        "files": [
+            "Sorry_Sorry_Sorry.sndh"
+        ]
+    },
+    "musics/Fothergill_Aaron": {
+        "directories": [],
+        "files": [
+            "Sky_Strike.sndh"
+        ]
+    },
+    "musics/Frazer": {
+        "directories": [],
+        "files": [
+            "Amazine_2.sndh",
+            "Apex.sndh",
+            "Bertram.sndh",
+            "Frantic.sndh",
+            "If_Pigs_Could_Fly_End.sndh",
+            "Jigsaw.sndh",
+            "Reanimators_Demo.sndh",
+            "Return_Of_The_Lapplander.sndh",
+            "The_Syndicate_Compact_21.sndh",
+            "The_Syndicate_Compact_27.sndh",
+            "The_Syndicate_Compact_28.sndh",
+            "The_Syndicate_Compact_36.sndh",
+            "The_Syndicate_Compact_42.sndh",
+            "The_Syndicate_Compact_52.sndh",
+            "The_Syndicate_Compact_60.sndh",
+            "The_Syndicate_Compact_70.sndh",
+            "The_Syndicate_Compact_82.sndh",
+            "The_Syndicate_Compact_98.sndh",
+            "Tjosan.sndh"
+        ]
+    },
+    "musics/French_Chris": {
+        "directories": [],
+        "files": [
+            "Axel_F.sndh",
+            "Deck_the_Halls.sndh",
+            "Good_King_Wenceslas.sndh",
+            "Jingle_Bells.sndh",
+            "Silent_Night.sndh",
+            "The_Little_Drummer_Boy.sndh",
+            "Twelve_Days_of_Christmas.sndh",
+            "We_Wish_A_Merry_Christmas.sndh"
+        ]
+    },
+    "musics/Frequent": {
+        "directories": [
+            "DMA"
+        ],
+        "files": [
+            "Asbest.sndh",
+            "Asfalt.sndh",
+            "Deep_Blue.sndh",
+            "Evila.sndh",
+            "Gatelys.sndh"
+        ]
+    },
+    "musics/Frequent/DMA": {
+        "directories": [],
+        "files": [
+            "Dronning.sndh",
+            "Lambo.sndh",
+            "Steinras_DMA.sndh",
+            "Vrien.sndh"
+        ]
+    },
+    "musics/Full_FX": {
+        "directories": [],
+        "files": [
+            "The_Jetsons.sndh"
+        ]
+    },
+    "musics/Furax": {
+        "directories": [],
+        "files": [
+            "EQX1.sndh",
+            "EQX2.sndh",
+            "HMD1.sndh",
+            "HMD2.sndh",
+            "HMD3.sndh",
+            "Virtual_Escape_Theme.sndh"
+        ]
+    },
+    "musics/Furniss_Matt": {
+        "directories": [],
+        "files": [
+            "AV8B_Harrier.sndh",
+            "Badlands.sndh",
+            "Botics.sndh",
+            "Carvup.sndh",
+            "Championship_Manager_93.sndh",
+            "Cyber_Ball.sndh",
+            "E_F_T_P_O_T_R_M.sndh",
+            "Euro_Football_Champs.sndh",
+            "Face_Off.sndh",
+            "Hard_Drivin.sndh",
+            "Hill_Street_Blues.sndh",
+            "Jahnghir_Khans_Squash.sndh",
+            "John_Barnes_Euro_Football.sndh",
+            "Klax.sndh",
+            "Lord_Of_Chaos.sndh",
+            "Mad_Professor_Mariarti.sndh",
+            "Manchester_United.sndh",
+            "Manchester_United_Europe.sndh",
+            "Manix_90.sndh",
+            "Mig_29_Super_Fulcrum.sndh",
+            "Outrun_Europe.sndh",
+            "Pitfighter.sndh",
+            "Race_Drivin.sndh",
+            "Revelations.sndh",
+            "Rouge_Trooper.sndh",
+            "Rugby-The_World_Cup.sndh",
+            "Sabre_Team.sndh",
+            "Scramble_Spirits.sndh",
+            "Shadow_Lands.sndh",
+            "Shadow_Worlds.sndh",
+            "Skull_and_Crossbones.sndh",
+            "Space_Harrier_II.sndh",
+            "Subbuteo.sndh",
+            "The_Spy_Who_Loved_Me.sndh",
+            "Toobin.sndh",
+            "Torvak_The_Warrior.sndh",
+            "Ultima_VI_The_Lost_Prophet.sndh"
+        ]
+    },
+    "musics/Gargamel": {
+        "directories": [
+            "DMA"
+        ],
+        "files": []
+    },
+    "musics/Gargamel/DMA": {
+        "directories": [],
+        "files": [
+            "Tyranny.sndh"
+        ]
+    },
+    "musics/Gary": {
+        "directories": [],
+        "files": [
+            "UCM_4_Intro.sndh",
+            "UCM_5_Intro.sndh"
+        ]
+    },
+    "musics/Gehrmann_Holger": {
+        "directories": [],
+        "files": [
+            "Domination.sndh",
+            "Extensor.sndh",
+            "Hollywood_Poker.sndh",
+            "Hollywood_Poker_Pro.sndh",
+            "Oil_Imperium.sndh",
+            "Space_Port.sndh",
+            "Terra_Nova.sndh"
+        ]
+    },
+    "musics/Goodley_Ross": {
+        "directories": [],
+        "files": [
+            "Bombuzal.sndh"
+        ]
+    },
+    "musics/Gray_Fred": {
+        "directories": [],
+        "files": [
+            "Black_Lamp.sndh",
+            "Eco.sndh",
+            "Star_Goose.sndh",
+            "Where_Time_Stood_Still.sndh"
+        ]
+    },
+    "musics/Green_J": {
+        "directories": [],
+        "files": [
+            "Walker.sndh"
+        ]
+    },
+    "musics/Guard_Christopher": {
+        "directories": [],
+        "files": [
+            "Skate_Tribe.sndh"
+        ]
+    },
+    "musics/Hard_N_Soft": {
+        "directories": [],
+        "files": [
+            "Steg_The_Slug.sndh"
+        ]
+    },
+    "musics/Haupt_Christian": {
+        "directories": [],
+        "files": [
+            "Wizmo.sndh"
+        ]
+    },
+    "musics/Havoc": {
+        "directories": [],
+        "files": [
+            "This_Sux.sndh"
+        ]
+    },
+    "musics/Helene": {
+        "directories": [],
+        "files": [
+            "28_Sept_06.sndh",
+            "________________.sndh",
+            "Carsong_1-Micromusic.sndh",
+            "Carsong_2.sndh",
+            "Eurotrance_Versjon.sndh",
+            "Fuck_The_Universe.sndh",
+            "Hah.sndh",
+            "Hmmmm.sndh",
+            "Juuujuu.sndh",
+            "Newedit.sndh",
+            "Noname_(Auf_h_s_tagebuch).sndh",
+            "Nonono.sndh",
+            "Nononyesyesyes.sndh",
+            "Rescued.sndh",
+            "sndh4Christian.sndh",
+            "Stray_Kittens_1.sndh",
+            "tecnotrance.sndh",
+            "Temp.sndh",
+            "Temptrance.sndh",
+            "Testy2000.sndh",
+            "Tull.sndh",
+            "Version_L.sndh",
+            "Whatever.sndh",
+            "Wronggggg.sndh"
+        ]
+    },
+    "musics/Herbert_Alex": {
+        "directories": [],
+        "files": [
+            "Bombz.sndh",
+            "Delta.sndh",
+            "Guardian.sndh",
+            "Turbo.sndh",
+            "Xrun.sndh"
+        ]
+    },
+    "musics/Hinsley_Chris": {
+        "directories": [],
+        "files": [
+            "Onslaught.sndh"
+        ]
+    },
+    "musics/Hogg_Ashley": {
+        "directories": [],
+        "files": [
+            "CJ_In_The_USA.sndh",
+            "Spikey_in_Transylvania.sndh"
+        ]
+    },
+    "musics/Housemania": {
+        "directories": [],
+        "files": [
+            "Spicetro.sndh"
+        ]
+    },
+    "musics/Howie_Steve": {
+        "directories": [],
+        "files": [
+            "Driving_Force.sndh",
+            "Ninja_Spirits.sndh",
+            "The_Punisher.sndh"
+        ]
+    },
+    "musics/Hubbard_Rob": {
+        "directories": [],
+        "files": [
+            "Battleships.sndh",
+            "Goldrunner.sndh",
+            "Jupiter_Probe.sndh",
+            "Thrust.sndh",
+            "Thundercats.sndh",
+            "Warhawk.sndh"
+        ]
+    },
+    "musics/Huelsbeck_Chris": {
+        "directories": [],
+        "files": [
+            "Adventures_of_Quik_N_Silva.sndh",
+            "Carl_Lewis_Challange.sndh",
+            "Gem_X.sndh",
+            "Jim_Power_in_Mutant_Planet.sndh"
+        ]
+    },
+    "musics/ISO": {
+        "directories": [],
+        "files": [
+            "And_Action.snd.sndh",
+            "Arf_Arf-Miauw.sndh",
+            "Art_I_Presume.sndh",
+            "Barst_Allen.sndh",
+            "Brodje_Shoarma.sndh",
+            "Buzzzzzzzing.sndh",
+            "Crazy_Thing_(DBA_9).sndh",
+            "Eindhoven_CS.sndh",
+            "Enchanted_Lands.sndh",
+            "Family_Dog.sndh",
+            "Faster_and_Faster.sndh",
+            "Fun.sndh",
+            "Gekkuhwerruk.sndh",
+            "Hiya_Placez.sndh",
+            "Holland_is_OK.sndh",
+            "Horror_Scope.sndh",
+            "Houseman.sndh",
+            "Instinctivley.sndh",
+            "Introtune.sndh",
+            "Its_Happening.sndh",
+            "Juicy_Alcohol.sndh",
+            "Kamagurka.sndh",
+            "Knuckle_Joe.sndh",
+            "Kop_Houwe.sndh",
+            "Last_Yell.sndh",
+            "Left_Handed.sndh",
+            "Panache_Theme.sndh",
+            "Particoloured.sndh",
+            "Patat_met_Kroket.sndh",
+            "People_Let_Go.sndh",
+            "Sheeeeep.sndh",
+            "Sinking.sndh",
+            "Starpaws.sndh",
+            "Waking_Up.sndh"
+        ]
+    },
+    "musics/Illusion": {
+        "directories": [],
+        "files": [
+            "Betty_Golden_Dawn_40a.sndh",
+            "Bluetack.sndh",
+            "Fucker_Golden_Dawn_38.sndh",
+            "Legal_Tools_5.sndh"
+        ]
+    },
+    "musics/Insomnia": {
+        "directories": [],
+        "files": [
+            "Plax_Atax.sndh"
+        ]
+    },
+    "musics/Inzerillo_Peter": {
+        "directories": [],
+        "files": [
+            "Carol_of_the_Bells.sndh",
+            "Piano_Man.sndh"
+        ]
+    },
+    "musics/Ithnell_Darren": {
+        "directories": [],
+        "files": [
+            "Flipit_and_Magnose.sndh",
+            "Mouth_Trap.sndh"
+        ]
+    },
+    "musics/Iveson_Martin": {
+        "directories": [],
+        "files": [
+            "Arcade_Classix_Breakout.sndh",
+            "Arcade_Classix_Centipede.sndh"
+        ]
+    },
+    "musics/JB_007": {
+        "directories": [],
+        "files": [
+            "Climax-Plastro.sndh",
+            "Librarie_Intro.sndh"
+        ]
+    },
+    "musics/Jason": {
+        "directories": [],
+        "files": [
+            "Jason_Mix-STe_only.sndh",
+            "Silly-STe_only.sndh"
+        ]
+    },
+    "musics/Jedi": {
+        "directories": [],
+        "files": [
+            "Beeforol.sndh",
+            "Digital.sndh",
+            "For_Jeff.sndh",
+            "Jedi_Fun.sndh",
+            "Kidney_8_Remix.sndh",
+            "Loader.sndh",
+            "Megatizer_Intro.sndh",
+            "Melody_Debut.sndh",
+            "NMM.sndh",
+            "Nuisance.sndh",
+            "Pulstar_2.sndh",
+            "Sernsima.sndh",
+            "Shadow.sndh",
+            "Sonar.sndh",
+            "Song_9.sndh",
+            "Sprite_Ball_Record.sndh",
+            "Stephanie.sndh",
+            "Telephone.sndh",
+            "Thats_The_Way_I_Like_It.sndh",
+            "Unfinished.sndh",
+            "Unfinished_3.sndh",
+            "Virtual_Escape_Hidden.sndh",
+            "Virtual_Escape_Intro.sndh",
+            "Vision.sndh"
+        ]
+    },
+    "musics/Jerowski_Stefan": {
+        "directories": [],
+        "files": [
+            "Blue_Angel_69.sndh",
+            "Mindbender.sndh",
+            "Sarakon.sndh",
+            "Spherical.sndh"
+        ]
+    },
+    "musics/Jess": {
+        "directories": [],
+        "files": [
+            "970_Bytes.sndh",
+            "A_Sixties_Slow.sndh",
+            "Akira_Versus_San_Go_Ku.sndh",
+            "Another_Western_Legend.sndh",
+            "Best_Part-Ze_16_Mins_Hit.sndh",
+            "Camerto_For_Acid_Band.sndh",
+            "Cubase_versus_Notator.sndh",
+            "Do_You_Speak_Russian.sndh",
+            "Eschelle.sndh",
+            "For_Your_Loader_1.sndh",
+            "For_Your_Loader_2.sndh",
+            "For_Your_Loader_3.sndh",
+            "Generation_2_0.sndh",
+            "Guille.sndh",
+            "Hardrock_Ballad.sndh",
+            "I_Found_The_Dead_Zone.sndh",
+            "I_Want_U_To_Shoot_Zem_Up.sndh",
+            "If_It_Works_Good.sndh",
+            "Jochen_Spirit.sndh",
+            "Lemon_Squeezers_Dream.sndh",
+            "Let_the_Djoard_Bells_Ring.sndh",
+            "Middle_Earth_Theme.sndh",
+            "Middle_Earth_Theme_(chip).sndh",
+            "My_First_Resonant_Burp-STe.sndh",
+            "My_First_Resonant_Burp-STf.sndh",
+            "My_Name_Is_Jess_Bond.sndh",
+            "My_ST_Suntans_in_Brazil.sndh",
+            "Not_a_Soporific_Lullaby.sndh",
+            "Once_Again.sndh",
+            "Pentatonik_Illusion.sndh",
+            "Please_No.sndh",
+            "Protect_Your_Enviornment.sndh",
+            "Psychosonorous_Disorder.sndh",
+            "Run_For_Your_Life.sndh",
+            "See_Ya_Again_on_Falcon.sndh",
+            "Sharpness_Buzztone.sndh",
+            "SOS-Means_Save_Our_ST.sndh",
+            "Super_Marios_Bros_Family.sndh",
+            "Tears_On_My_Keyboard.sndh",
+            "Thats_Illogical_Captain.sndh",
+            "The_Battle_Of_Arpegios.sndh",
+            "The_Legacy_Nightmare.sndh",
+            "The_Music_Bootsector.sndh",
+            "The_Music_Bootsector_Remix.sndh",
+            "The_Popples_Revenge.sndh",
+            "The_Singing_Green_Frog.sndh",
+            "The_Twins_Parodie.sndh",
+            "The_Undead_Horrow_Show.sndh",
+            "This_Music-Starwars.sndh",
+            "Throw_It_In_A_Trash_Can.sndh",
+            "Throw_The_Confettis.sndh",
+            "Tra_La_Li_and_Tra_La_La.sndh",
+            "Unfinished_Sorry_AN_Cool.sndh",
+            "Wave_Mania_is_my_Passion.sndh"
+        ]
+    },
+    "musics/Jet_Power": {
+        "directories": [],
+        "files": [
+            "AGITRS-Loader.sndh",
+            "AGITRS-Main_Menu.sndh",
+            "AGITRS-RABUBA_SAHNE_TEE.sndh"
+        ]
+    },
+    "musics/Johnson_Peter": {
+        "directories": [],
+        "files": [
+            "Arkanoid.sndh",
+            "Robocop.sndh",
+            "Wizball.sndh"
+        ]
+    },
+    "musics/Jones_Nick": {
+        "directories": [],
+        "files": [
+            "First_Samurai.sndh",
+            "Xevious.sndh"
+        ]
+    },
+    "musics/Jookie": {
+        "directories": [],
+        "files": [
+            "Xmas_Intro.sndh"
+        ]
+    },
+    "musics/Joseph_Richard": {
+        "directories": [],
+        "files": [
+            "Adventures_of_Robin_Hood.sndh",
+            "Cannon_Fodder.sndh",
+            "Chaos_Engine.sndh",
+            "James_Pond.sndh",
+            "James_Pond_2.sndh",
+            "Knightmare.sndh",
+            "Legend.sndh",
+            "Lure_of_the_Temptress.sndh",
+            "Magic_Pockets.sndh",
+            "Megalomania.sndh",
+            "Sensible_Soccer.sndh",
+            "Steel_Empire.sndh",
+            "Wizkid.sndh"
+        ]
+    },
+    "musics/Jovis": {
+        "directories": [],
+        "files": [
+            "Lametrop-3D_Bobs.sndh",
+            "Lametrop-Beast.sndh",
+            "Lametrop-End.sndh",
+            "Lametrop-End_Part_2.sndh",
+            "Lametrop-Intro.sndh",
+            "Lametrop-Intro_Part_2.sndh",
+            "Lametrop-Jet_Set_Willy.sndh",
+            "Lametrop-Minitext.sndh",
+            "Lametrop-Starfield.sndh"
+        ]
+    },
+    "musics/Kanewood": {
+        "directories": [],
+        "files": [
+            "Faith.sndh",
+            "Memorial.sndh",
+            "Paradise.sndh",
+            "Phantom_Demo-Bonus_A.sndh",
+            "Phantom_Demo-Bonus_B.sndh",
+            "Phantom_Demo-End.sndh",
+            "Phantom_Demo-Main.sndh"
+        ]
+    },
+    "musics/Kelly_Dave": {
+        "directories": [],
+        "files": [
+            "Dragon_Spirit.sndh",
+            "Last_Ninja_2.sndh"
+        ]
+    },
+    "musics/Kenet": {
+        "directories": [],
+        "files": [
+            "Gameboy.sndh",
+            "Oldiez.sndh"
+        ]
+    },
+    "musics/Kennett_Gordon": {
+        "directories": [],
+        "files": [
+            "Enterprise.sndh"
+        ]
+    },
+    "musics/Kenny_D": {
+        "directories": [],
+        "files": [
+            "Folk_off_round_the_fields.sndh"
+        ]
+    },
+    "musics/Ksouri_Eric": {
+        "directories": [],
+        "files": [
+            "Manciola-Etnos.sndh",
+            "Manciola-Melia.sndh"
+        ]
+    },
+    "musics/LTK": {
+        "directories": [],
+        "files": [
+            "Complete.sndh",
+            "Env_Try.sndh",
+            "Phaelon-Mage_Mix_(Mystic).sndh",
+            "PS_Harm.sndh"
+        ]
+    },
+    "musics/Lap": {
+        "directories": [],
+        "files": [
+            "BGMS-Apart.sndh",
+            "BGMS-Menu.sndh",
+            "BGMS-Menu_(digi).sndh",
+            "Expose_Software_Intro.sndh",
+            "Lap_01-Batman.sndh",
+            "Lap_02.sndh",
+            "Lap_03.sndh",
+            "Lap_04.sndh",
+            "Lap_05.sndh",
+            "Lap_06.sndh",
+            "Lap_07-Ghost_N_Goblins.sndh",
+            "Lap_08.sndh",
+            "Lap_09.sndh",
+            "Lap_10.sndh",
+            "Lap_11.sndh",
+            "Lap_12.sndh",
+            "Lap_13.sndh",
+            "Lap_14.sndh",
+            "Lap_15.sndh",
+            "Lap_16.sndh",
+            "Lap_27.sndh",
+            "Lap_28.sndh",
+            "Lap_29.sndh",
+            "Lap_33.sndh",
+            "Phaelon-Change_Disks.sndh",
+            "Phaelon-Dungeon.sndh",
+            "Phaelon-Intro.sndh",
+            "Phaelon-Krom.sndh",
+            "Yo_Demo-Main_Menu.sndh"
+        ]
+    },
+    "musics/Lee_Lee": {
+        "directories": [],
+        "files": [
+            "Automation_391.sndh"
+        ]
+    },
+    "musics/Lees_Anthony": {
+        "directories": [],
+        "files": [
+            "Brat.sndh",
+            "Incredible_Sphere.sndh"
+        ]
+    },
+    "musics/Legace_Ken": {
+        "directories": [],
+        "files": [
+            "Knights_of_the_Sky.sndh"
+        ]
+    },
+    "musics/Leitch_Barry": {
+        "directories": [],
+        "files": [
+            "Airborne_Ranger.sndh",
+            "Championship_Manager.sndh",
+            "Combo_Racer.sndh",
+            "Ferrari_Formula_One.sndh",
+            "Frankstein.sndh",
+            "Gemini_Wing.sndh",
+            "Gilbert-Escape_From_Drill.sndh",
+            "Harlequin.sndh",
+            "Hero_Quest.sndh",
+            "Impossamole.sndh",
+            "Lotus_Turbo_Challenge_2.sndh",
+            "Microprose_Soccer.sndh",
+            "Pegasus.sndh",
+            "President_Is_Missing.sndh",
+            "Raiden.sndh",
+            "Rock_N_Roll.sndh",
+            "Silkworm.sndh",
+            "Space_Crusade.sndh",
+            "Stratego.sndh",
+            "Super_Cars_2.sndh",
+            "Switchblade_2.sndh",
+            "THe_Shoe_People.sndh",
+            "Treasure_Trap.sndh",
+            "Utopia.sndh",
+            "Viking_Child.sndh",
+            "Xenophobe.sndh",
+            "Zone_Warrior.sndh"
+        ]
+    },
+    "musics/Linde_Philip": {
+        "directories": [],
+        "files": [
+            "Breakbeat.sndh",
+            "Ras_Atari.sndh",
+            "Spraymaali.sndh"
+        ]
+    },
+    "musics/Loony": {
+        "directories": [],
+        "files": [
+            "Loony.sndh"
+        ]
+    },
+    "musics/Lord": {
+        "directories": [],
+        "files": [
+            "Ambition_Intro_1.sndh",
+            "Ambition_Intro_2.sndh",
+            "Ambition_Menu_1.sndh",
+            "Ambition_Menu_2.sndh"
+        ]
+    },
+    "musics/Loriaux_Pierre-Eric": {
+        "directories": [],
+        "files": [
+            "Cabal.sndh",
+            "Elf.sndh",
+            "Ivanhoe.sndh",
+            "Toki.sndh"
+        ]
+    },
+    "musics/Lorraine_Paul": {
+        "directories": [],
+        "files": [
+            "Arcade_Trivia_Quiz.sndh",
+            "Huckleberry_Hound.sndh",
+            "Scooby_And_Scrappy_Doo.sndh"
+        ]
+    },
+    "musics/Lotek_Style": {
+        "directories": [],
+        "files": [
+            "28_Style.sndh",
+            "80_Years.sndh",
+            "Age.sndh",
+            "Alpha_Proxima.sndh",
+            "Altair_4-Stone_Tower.sndh",
+            "Arche_(UCM_13).sndh",
+            "Artefakt.sndh",
+            "Ask_Me_About_Chips.sndh",
+            "Beams_are_gonna_blind_me.sndh",
+            "Blinded.sndh",
+            "Burning_Chrome.sndh",
+            "Centauri.sndh",
+            "Chips_on_Fire.sndh",
+            "Crushed_The_Majors.sndh",
+            "Crystal.sndh",
+            "Dancing_T-Girl.sndh",
+            "Das_Sidhaeuser_Tor.sndh",
+            "Datapirate.sndh",
+            "Destroya.sndh",
+            "Diva.sndh",
+            "Echoland.sndh",
+            "Eilig.sndh",
+            "Eiswelt.sndh",
+            "Electronica_re_shox.sndh",
+            "Elfworld.sndh",
+            "Fading_Twilight_Intro_Edit.sndh",
+            "Farewell_Lil_SSD.sndh",
+            "Flainian.sndh",
+            "Giana_Sister_Title_Remix.sndh",
+            "Hardrock.sndh",
+            "Hardrock_Sid.sndh",
+            "Her_Face.sndh",
+            "Hopes_(UCM_13).sndh",
+            "In_My_Heart.sndh",
+            "Industrial_Safe_Disk_31.sndh",
+            "Lip_Gloss.sndh",
+            "Loadatune.sndh",
+            "Lotus_Flower.sndh",
+            "Mourning.sndh",
+            "Ode_To_DMA-SC.sndh",
+            "Perfect_Chipperman.sndh",
+            "Photograph_(Depeche_Mode).sndh",
+            "Rays_Of_Neon.sndh",
+            "Rise_Of_The_RI-Machines.sndh",
+            "Sad.sndh",
+            "Sense_net.sndh",
+            "Seraphim.sndh",
+            "Seraphim_(chip).sndh",
+            "Silence.sndh",
+            "Space_Pirate.sndh",
+            "Spieler_1_Los.sndh",
+            "Sweety.sndh",
+            "Zeitloch.sndh"
+        ]
+    },
+    "musics/Lotus": {
+        "directories": [],
+        "files": [
+            "Monster_Business.sndh",
+            "No_Buddies_Land.sndh",
+            "Synth_Dream.sndh"
+        ]
+    },
+    "musics/Lowe_Al": {
+        "directories": [],
+        "files": [
+            "Kings_Quest_II.sndh"
+        ]
+    },
+    "musics/Lowe_Dave": {
+        "directories": [],
+        "files": [
+            "Afterburner.sndh",
+            "Altered_Beast.sndh",
+            "Bangkok_Knights.sndh",
+            "California_Games_2.sndh",
+            "Count_Duckula_2.sndh",
+            "Darius.sndh",
+            "E-Swat.sndh",
+            "Elite_2-Frontier.sndh",
+            "F-15_Strike_Eagle_II.sndh",
+            "Final_Fight.sndh",
+            "Galaxy_Force_II.sndh",
+            "Garfield_2.sndh",
+            "IK-Plus.sndh",
+            "Line_of_Fire.sndh",
+            "MIcroprose_Formula_One_GP.sndh",
+            "Midwinter 2.sndh",
+            "Night_Shift.sndh",
+            "Power_Drift.sndh",
+            "Railroad_Tycoon.sndh",
+            "Street_Fighter_II.sndh",
+            "Summer_Games.sndh",
+            "Time_Scanner.sndh",
+            "Turbo_Outrun.sndh",
+            "Venus_The_Flytrap.sndh"
+        ]
+    },
+    "musics/Luebke": {
+        "directories": [],
+        "files": [
+            "Compo.sndh",
+            "IRC_Simulator.sndh",
+            "Jingle_Bells.sndh",
+            "Paracon_3_invitro.sndh",
+            "Reverse_Pong.sndh"
+        ]
+    },
+    "musics/Lundberg_Mikael": {
+        "directories": [],
+        "files": [
+            "Rush.sndh"
+        ]
+    },
+    "musics/MSG": {
+        "directories": [],
+        "files": [
+            "Chariots_of_Fire.sndh",
+            "Chu_Chu_Rocket-Award.sndh",
+            "Chu_Chu_Rocket-Battle.sndh",
+            "Chu_Chu_Rocket-Cat_Mania.sndh",
+            "Chu_Chu_Rocket-Challange.sndh",
+            "Chu_Chu_Rocket-Credits.sndh",
+            "Chu_Chu_Rocket-Hurry.sndh",
+            "Chu_Chu_Rocket-Mousemania.sndh",
+            "Chu_Chu_Rocket-Puzzle.sndh",
+            "Chu_Chu_Rocket-Results.sndh",
+            "Chu_Chu_Rocket-Slow_Down.sndh",
+            "Chu_Chu_Rocket-Speed_Up.sndh",
+            "Chu_Chu_Rocket-Team_Battle.sndh",
+            "Chu_Chu_Rocket-Title.sndh",
+            "Double_Juggle_Vegatabobble.sndh",
+            "EIL_Entry.sndh",
+            "Godpey-Awards.sndh",
+            "Godpey-Frontend.sndh",
+            "Godpey-Hiscore.sndh",
+            "Godpey-Intro.sndh",
+            "Godpey-Losing.sndh",
+            "Godpey-Normal.sndh",
+            "Godpey-Practice.sndh",
+            "Godpey-Puzzle.sndh",
+            "Godpey-Results.sndh",
+            "Godpey-Stage.sndh",
+            "Godpey-Story_0.sndh",
+            "Godpey-Story_1.sndh",
+            "Godpey-Story_2.sndh",
+            "Godpey-Time.sndh",
+            "Maggie_24_Intro.sndh",
+            "Maggie_27_Intro.sndh",
+            "Maikever.sndh",
+            "MSG_01.sndh",
+            "MSG_02.sndh",
+            "MSG_03.sndh",
+            "MSG_04.sndh",
+            "MSG_05.sndh",
+            "MSG_06.sndh",
+            "MSG_07.sndh",
+            "MSG_08.sndh",
+            "MSG_10.sndh",
+            "MSG_11.sndh",
+            "MSG_13.sndh",
+            "MSG_14.sndh",
+            "Omtrek-uit-lijn.sndh",
+            "Outline.sndh",
+            "Superfly_tune_1.sndh",
+            "Superfly_tune_2.sndh",
+            "Superfly_tune_3.sndh",
+            "Superfly_tune_4.sndh",
+            "Superfly_tune_5.sndh",
+            "Superfly_tune_6.sndh",
+            "Superfly_tune_7.sndh",
+            "Superfly_tune_8.sndh",
+            "Superfly_tune_9.sndh"
+        ]
+    },
+    "musics/Maclean_Archer": {
+        "directories": [],
+        "files": [
+            "Archer_Macleans_Pool.sndh",
+            "Jimmy_Whites_Snooker.sndh"
+        ]
+    },
+    "musics/Mad_Max": {
+        "directories": [
+            "Demos",
+            "Games"
+        ],
+        "files": [
+            "1.sndh",
+            "2.sndh",
+            "AJH_99.sndh",
+            "Bomber_(ST).sndh",
+            "Bomber_(STe).sndh",
+            "Buzzer.sndh",
+            "Car_Race.sndh",
+            "Demo_Shorty.sndh",
+            "Hexer.sndh",
+            "Jazzy.sndh",
+            "Last Ninja.sndh",
+            "Loading.sndh",
+            "New_Music.sndh",
+            "Poker_Music.sndh",
+            "Solidify.sndh",
+            "ST_News_6_1.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos": {
+        "directories": [
+            "Best_In_Galaxy",
+            "Best_In_Galaxy-SIDVoice",
+            "C64-Conversions",
+            "Cuddly_Demos",
+            "Lifes_A_Bitch",
+            "Little_Color_Demo",
+            "Little_Sound_Demo",
+            "Ooh_Crikey",
+            "So_Watt",
+            "Syntax_Terror",
+            "Union_Demo"
+        ],
+        "files": [
+            "Archon.sndh",
+            "Arpy_Rmx.sndh",
+            "Auf_Weidersehen_Monty-digi.sndh",
+            "Aurball_Remix.sndh",
+            "Axel_F.sndh",
+            "Back_The_Future.sndh",
+            "Demo_Music_6.sndh",
+            "Demo_Music_8.sndh",
+            "Demo_Music_9.sndh",
+            "DSOTS-The_Lost_Boys.sndh",
+            "Faith.sndh",
+            "Gambol.sndh",
+            "LM.sndh",
+            "Nearly_Spherical.sndh",
+            "Shades_Giana_Sisters_Remix.sndh",
+            "Supersonic.sndh",
+            "Virtual_Escape-End_Part.sndh",
+            "WarpTyme_Intro_Music.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos/Best_In_Galaxy": {
+        "directories": [],
+        "files": [
+            "Ace_2.sndh",
+            "Aufweidersehen_Monty.sndh",
+            "Balloon_Challange.sndh",
+            "Battle_Of_Britain.sndh",
+            "Bump_Set_And_Spike.sndh",
+            "Chimera.sndh",
+            "Clumsy_Colin_Action_Biker.sndh",
+            "Commando.sndh",
+            "Confuzion.sndh",
+            "Crazy_Comets.sndh",
+            "Deep_Strike.sndh",
+            "Delta.sndh",
+            "Education.sndh",
+            "Flash_Gordon.sndh",
+            "Formula_1.sndh",
+            "Geoff_Capes_Strongman.sndh",
+            "Gerry_The_Germ.sndh",
+            "Gremlin_Music_Demo.sndh",
+            "Harvey_Smiths_Show_Jumping.sndh",
+            "Human_Race.sndh",
+            "Hunter_Patrol.sndh",
+            "I-Ball.sndh",
+            "International_Karate.sndh",
+            "International_Karate_Plus.sndh",
+            "Lightforce.sndh",
+            "Locomotion.sndh",
+            "Make_Love_Not_W_A_R.sndh",
+            "Master_Of_Magic.sndh",
+            "Monty_On_The_Run.sndh",
+            "Nemesis_The_Warlock.sndh",
+            "One_Man_and_His_Droid.sndh",
+            "Phantom_Of_The_Asteroid.sndh",
+            "Saboteur_2.sndh",
+            "Sam_Fox_Strip_Poker.sndh",
+            "Sanxion_Loader.sndh",
+            "Sanxion_Title.sndh",
+            "Small_Title.sndh",
+            "Spellbound.sndh",
+            "Starpaws.sndh",
+            "Thanatos.sndh",
+            "The_Last_V8.sndh",
+            "Thing_On_A_Spring.sndh",
+            "Thrust.sndh",
+            "Warhawk.sndh",
+            "Wiz.sndh",
+            "Zoids.sndh",
+            "Zoolook.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos/Best_In_Galaxy-SIDVoice": {
+        "directories": [],
+        "files": [
+            "Ace_2.sndh",
+            "Auf_Wiedersehen_Monty.sndh",
+            "Battle_Of_Britain.sndh",
+            "Bump_Set_Spike.sndh",
+            "Chimera.sndh",
+            "Clumsy_Colin_Action_Biker.sndh",
+            "Commando.sndh",
+            "Confuzion.sndh",
+            "Crazy_Comets.sndh",
+            "Deep_Strike.sndh",
+            "Delta.sndh",
+            "Final_Synth.sndh",
+            "Flash_Gordon.sndh",
+            "Formula_1.sndh",
+            "Gerry_The_Germ.sndh",
+            "Harvey_Smiths_Show_Jumping.sndh",
+            "Humanrace.sndh",
+            "Hunter_Patrol.sndh",
+            "I-Ball.sndh",
+            "International_Karate.sndh",
+            "International_Karate_Plus.sndh",
+            "Lightforce.sndh",
+            "Locomotion.sndh",
+            "Make_Love_Not_W_A_R.sndh",
+            "Master_of_Magic.sndh",
+            "Monty_On_The_Run.sndh",
+            "Nemesis_The_Warlock.sndh",
+            "One_Man_and_His_Droid.sndh",
+            "Phantoms_of_the_Asteroid.sndh",
+            "Saboteur_2.sndh",
+            "Sam_Fox_Strip_Poker.sndh",
+            "Sanxion_Loader.sndh",
+            "Sanxion_Title.sndh",
+            "Spellbound.sndh",
+            "Starpaws.sndh",
+            "Thanatos.sndh",
+            "The_Last_V8.sndh",
+            "Thing_on_a_Spring.sndh",
+            "Thrust.sndh",
+            "Warhawk.sndh",
+            "Wiz.sndh",
+            "Zoids.sndh",
+            "Zoolook.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos/C64-Conversions": {
+        "directories": [],
+        "files": [
+            "Alloy_Run.sndh",
+            "Arkanoid.sndh",
+            "Forgotten_Worlds.sndh",
+            "Galways_Mix.sndh",
+            "JT_In_Space.sndh",
+            "Knucklebusters.sndh",
+            "Noisy_Pillars.sndh",
+            "Pro_BMX_Simulator_A.sndh",
+            "Scout.sndh",
+            "Scout_Remix.sndh",
+            "Starball.sndh",
+            "Warhawk_Remix.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos/Cuddly_Demos": {
+        "directories": [],
+        "files": [
+            "Bangkok_Knights-Loader.sndh",
+            "Bangkok_Knights.sndh",
+            "Big_Sprite.sndh",
+            "Comic_Bakery.sndh",
+            "Knucklebusters_(digi).sndh",
+            "Main_Menu.sndh",
+            "No_Name.sndh",
+            "Reset.sndh",
+            "Robocop_Tune_2.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos/Lifes_A_Bitch": {
+        "directories": [],
+        "files": [
+            "Beat_Nick.sndh",
+            "GigaTex.sndh",
+            "Loader.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos/Little_Color_Demo": {
+        "directories": [],
+        "files": [
+            "Axel_F.sndh",
+            "Crazy_Comets.sndh",
+            "Crazy_Comets_Game_Over.sndh",
+            "Flash_Gordon.sndh",
+            "Human_Race_Level_1.sndh",
+            "Human_Race_Level_4.sndh",
+            "Masters_Of_Magic.sndh",
+            "Monty_On_The_Run.sndh",
+            "One_Man_And_His_Droid.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos/Little_Sound_Demo": {
+        "directories": [],
+        "files": [
+            "Commando_1.sndh",
+            "Commando_2.sndh",
+            "Commando_3.sndh",
+            "Flash_Gordon.sndh",
+            "International_Karate.sndh",
+            "International_Karate_2.sndh",
+            "Mad_Max_Tune_1.sndh",
+            "Mad_Max_Tune_2.sndh",
+            "Mad_Max_Tune_3.sndh",
+            "Mad_Max_Tune_4.sndh",
+            "Monty_On_The_Run_High.sndh",
+            "Monty_On_The_Run_High_2.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos/Ooh_Crikey": {
+        "directories": [],
+        "files": [
+            "Hidden.sndh",
+            "Loader.sndh",
+            "Main_Menu.sndh",
+            "There_Are_No_Sheep.sndh",
+            "Your_Mind_Is_My_Ashtray.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos/So_Watt": {
+        "directories": [],
+        "files": [
+            "Main_Menu.sndh",
+            "Nordik_Coders.sndh",
+            "S_O_S.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos/Syntax_Terror": {
+        "directories": [],
+        "files": [
+            "Fletch.sndh",
+            "Level_16.sndh",
+            "Loader.sndh",
+            "Reset.sndh",
+            "The_Lost_Boys.sndh"
+        ]
+    },
+    "musics/Mad_Max/Demos/Union_Demo": {
+        "directories": [],
+        "files": [
+            "Childrens_Song.sndh",
+            "Cybernoid.sndh",
+            "Ikari_Union.sndh",
+            "Level_16.sndh",
+            "Mega_Apocalypse.sndh",
+            "Pandora.sndh",
+            "Pro_BMX_Simulator_B.sndh",
+            "Scoop-Thats_The_Way_It_is.sndh",
+            "Thundercats.sndh"
+        ]
+    },
+    "musics/Mad_Max/Games": {
+        "directories": [],
+        "files": [
+            "5th_Gear.sndh",
+            "80_Days_Around_the_World.sndh",
+            "A_Preshistoric_Tale.sndh",
+            "Amberstar.sndh",
+            "Astaroth.sndh",
+            "Atomino.sndh",
+            "Atomix_(Cybermind).sndh",
+            "Bad_Cat.sndh",
+            "Chambers_Of_Shaolin.sndh",
+            "Chambers_of_Shaolin_STe.sndh",
+            "Chambers_of_Shaolin_STFM.sndh",
+            "Circus_Attractions.sndh",
+            "Crimetime.sndh",
+            "Cybernoid_2.sndh",
+            "Dragon_Flight.sndh",
+            "Dugger.sndh",
+            "Enchanted_Land.sndh",
+            "Ghostbattle.sndh",
+            "Grand_Monster_Slam.sndh",
+            "Great_Giana_Sisters.sndh",
+            "Great_Giana_Sisters_Digi.sndh",
+            "Insects_In_Space.sndh",
+            "Jinks.sndh",
+            "Leavin_Teramis.sndh",
+            "Lethal_Xcess_(ST).sndh",
+            "Lethal_Xcess_(STe).sndh",
+            "Masterblazer.sndh",
+            "Ninja_Remix.sndh",
+            "Pablo_Gold_Of_Montezuma.sndh",
+            "Pro_Tennis_Tour_2.sndh",
+            "Quizmaster.sndh",
+            "Return_Of_Medusa.sndh",
+            "Rings_Of_Medusa.sndh",
+            "Rollout.sndh",
+            "Spaceball.sndh",
+            "Stormlord.sndh",
+            "Stormlord_Digi.sndh",
+            "Tangram.sndh",
+            "Thalion_Intro.sndh",
+            "The_Seven_Gates_Of_Jambala.sndh",
+            "Tom_And_Jerry.sndh",
+            "Turrican.sndh",
+            "Turrican_2.sndh",
+            "Warp.sndh",
+            "Warp_Digi.sndh",
+            "Wings_Of_Death.sndh"
+        ]
+    },
+    "musics/Maktone": {
+        "directories": [],
+        "files": [
+            "1st.sndh",
+            "Glory.sndh",
+            "Goldfish.sndh",
+            "Granit.sndh",
+            "Hero.sndh",
+            "Hex.sndh",
+            "Husselhof.sndh",
+            "Jewel.sndh",
+            "Nelson.sndh",
+            "New_Start.sndh",
+            "Reason.sndh",
+            "Shaman.sndh",
+            "Shotgun.sndh",
+            "Total.sndh",
+            "Varberga.sndh"
+        ]
+    },
+    "musics/Marcer": {
+        "directories": [
+            "DMA"
+        ],
+        "files": [
+            "Alice_Buzz_ST.sndh",
+            "At_House_SID.sndh",
+            "Bellanotte_Chip.sndh",
+            "Bellanotte_Chippy_mix.sndh",
+            "Bonita.sndh",
+            "Breath_Outline.sndh",
+            "Broken.sndh",
+            "Bubble_2005.sndh",
+            "Bye_bye_friend.sndh",
+            "Coco_Cooper.sndh",
+            "Comic_Bakery_Maxer.sndh",
+            "Conan_Remix.sndh",
+            "Cool.sndh",
+            "Cover_For_Maria.sndh",
+            "Disc0_SID.sndh",
+            "Dragonflight_Mix.sndh",
+            "Gillian.sndh",
+            "Heroes_Intro.sndh",
+            "Ho_Ho_Ho.sndh",
+            "Hu.sndh",
+            "Hybris_Remix.sndh",
+            "I_WIsh_ST_vers.sndh",
+            "I_Wish_v2.sndh",
+            "Impossamole_Mix.sndh",
+            "Intro_99.sndh",
+            "Jambala_8_Mix.sndh",
+            "Latina_NWD_Ingame_Ext.sndh",
+            "Lotus_1_Title_Remix.sndh",
+            "Might_382.sndh",
+            "New_Time.sndh",
+            "Nnooo.sndh",
+            "Noisy_05.sndh",
+            "Not_Ready.sndh",
+            "NWD-Ingame_1.sndh",
+            "NWD-Ingame_2.sndh",
+            "NWD-Ingame_3.sndh",
+            "NWD-Intro.sndh",
+            "Ojoj.sndh",
+            "Outrun_2005_Remix.sndh",
+            "Oxygen_8_YM.sndh",
+            "Rings_of_Medusa_Mix.sndh",
+            "Simply_Larry.sndh",
+            "Sleepin.sndh",
+            "Sorn_Destiny.sndh",
+            "Sorn_Destiny_(Digi).sndh",
+            "Sounds_Of_1985-2006.sndh",
+            "Square_Poker_Ingame.sndh",
+            "Square_Poker_Intro.sndh",
+            "Square_Poker_Menu.sndh",
+            "ST Kills Rambo.sndh",
+            "Standard_YM.sndh",
+            "Star.sndh",
+            "Techno_Orion.sndh",
+            "Testing_3-Unfinished.sndh",
+            "The_5th_Experiment.sndh",
+            "Traxxer_2.sndh",
+            "Trumorre.sndh",
+            "Trust.sndh",
+            "Turricana.sndh",
+            "We_Remember.sndh",
+            "Xmas_Snowman.sndh",
+            "Xmas_Snowman_SID.sndh",
+            "Znax_Credits-first_tYMe.sndh",
+            "Znax_Menu-Greasy.sndh"
+        ]
+    },
+    "musics/Marcer/DMA": {
+        "directories": [],
+        "files": [
+            "2149_Final.sndh",
+            "CPU Slider Preview.sndh",
+            "Marcer_79.sndh",
+            "New_Marcer.sndh"
+        ]
+    },
+    "musics/Martin_Jos_A": {
+        "directories": [],
+        "files": [
+            "Risky_Woods.sndh"
+        ]
+    },
+    "musics/Marvin_Tom": {
+        "directories": [],
+        "files": [
+            "Close_Encounter_3rd_Kind.sndh",
+            "Thunderer.sndh"
+        ]
+    },
+    "musics/Mate": {
+        "directories": [],
+        "files": [
+            "Just_Buggin-Xenex.sndh"
+        ]
+    },
+    "musics/Max": {
+        "directories": [],
+        "files": [
+            "Whatta_Big_Rat.sndh"
+        ]
+    },
+    "musics/McGinty_Andi": {
+        "directories": [],
+        "files": [
+            "McDonald_Land.sndh",
+            "WWF_European_Rampage.sndh"
+        ]
+    },
+    "musics/Medek_Jon": {
+        "directories": [],
+        "files": [
+            "Hard_Nova.sndh"
+        ]
+    },
+    "musics/Mephisto": {
+        "directories": [],
+        "files": [
+            "Librarie.sndh",
+            "Ventura-Evil.sndh",
+            "Ventura-Hystanders.sndh"
+        ]
+    },
+    "musics/Miggy": {
+        "directories": [],
+        "files": [
+            "Credits.sndh",
+            "Devil.sndh",
+            "EELectric_Game_Music.sndh",
+            "Hyper_dog_poo.sndh",
+            "In_To_Action.sndh",
+            "Jeepers.sndh",
+            "Meow.sndh",
+            "Old_gtwee.sndh",
+            "Outback.sndh",
+            "Poker.sndh",
+            "Roar.sndh",
+            "Sisco_Sun.sndh",
+            "Stackers.sndh",
+            "Stinky.sndh",
+            "Target.sndh"
+        ]
+    },
+    "musics/Miq": {
+        "directories": [],
+        "files": [
+            "Axel_Foley.sndh",
+            "Dream_Work.sndh",
+            "Exited.sndh",
+            "First_Song.sndh",
+            "Hotliner.sndh",
+            "Hotliner_v2.sndh",
+            "Miqs_Acid-Na_Na_Ni_Ni.sndh",
+            "Rolling.sndh"
+        ]
+    },
+    "musics/Modmate": {
+        "directories": [],
+        "files": [
+            "Impact.sndh",
+            "Popcorn.sndh",
+            "Xmas.sndh"
+        ]
+    },
+    "musics/Monk": {
+        "directories": [],
+        "files": [
+            "Disturbance_Bilocated.sndh",
+            "Smalltrip.sndh"
+        ]
+    },
+    "musics/Monkhouse_Bob": {
+        "directories": [],
+        "files": [
+            "phoneomenon.sndh"
+        ]
+    },
+    "musics/Morgan": {
+        "directories": [],
+        "files": [
+            "Garcimore_2_Rire_Reset.sndh"
+        ]
+    },
+    "musics/Munsie_Dave": {
+        "directories": [],
+        "files": [
+            "Evader.sndh",
+            "Frogger.sndh",
+            "Kid_Kong.sndh"
+        ]
+    },
+    "musics/Nemo": {
+        "directories": [],
+        "files": [
+            "2_Lives_Left.sndh",
+            "Alive_Intro.sndh",
+            "Bambooka.sndh",
+            "Beaucoup_Sun.sndh",
+            "Bobbin_Guru_Deva.sndh",
+            "Bobby.sndh",
+            "Clocks.sndh",
+            "Double_Danger_ActionAgents.sndh",
+            "End_Part_M2V.sndh",
+            "Excess.sndh",
+            "Game_Over.sndh",
+            "Harmless.sndh",
+            "Loading_Space_Invader.sndh",
+            "Loading_Warm_up.sndh",
+            "Matrix_UCM_19.sndh",
+            "Milliways_Online_Compo.sndh",
+            "Mischief.sndh",
+            "Nex.sndh",
+            "Pirate_Sunset.sndh",
+            "Polarnoid.sndh",
+            "Real_Arcade.sndh",
+            "Reality_Enraged.sndh",
+            "Short_Cuts.sndh",
+            "Summer.sndh",
+            "Tambumbi.sndh",
+            "Tempest_2000_mix.sndh"
+        ]
+    },
+    "musics/Neubauer_Carsten": {
+        "directories": [],
+        "files": [
+            "Beam.sndh"
+        ]
+    },
+    "musics/New_Frequency": {
+        "directories": [],
+        "files": [
+            "ZPC_TLT_Convention.sndh"
+        ]
+    },
+    "musics/Nexus": {
+        "directories": [],
+        "files": [
+            "Dream_Zone_Circle_Twist.sndh",
+            "Dream_Zone_Cool_J.sndh",
+            "Dream_Zone_Filled_3D.sndh",
+            "Dream_Zone_Lame_Screen.sndh",
+            "GBISTCP_Wild_Boys.sndh",
+            "Maniax.sndh"
+        ]
+    },
+    "musics/Nexus_6": {
+        "directories": [],
+        "files": [
+            "5_16_38.sndh",
+            "Ancient_Files_v2.sndh",
+            "Arie_EXX.sndh",
+            "Audiopac.sndh",
+            "Axmnpfnmumpf.sndh",
+            "Big_Jelly_Fish.sndh",
+            "Bin_Doof.sndh",
+            "Bubbling_Overall.sndh",
+            "Chinese_Mead.sndh",
+            "Colourclash.sndh",
+            "Count_One.sndh",
+            "Cried_Out_Eyes.sndh",
+            "Cyclones_Memory_Theme.sndh",
+            "Daneilas_Arsch.sndh",
+            "Deep_Hall.sndh",
+            "Disharmonica.sndh",
+            "Dum_Dum_Zak.sndh",
+            "Hans_A_aus_Dortmund.sndh",
+            "Happy_Muff.sndh",
+            "Headbomb.sndh",
+            "Hopscotch.sndh",
+            "Lethal_Xcess_Level_1.sndh",
+            "Lethal_Xcess_Level_2.sndh",
+            "Lethal_Xcess_Level_3.sndh",
+            "Lethal_Xcess_Level_4.sndh",
+            "Lost_in_the_Milky_Way.sndh",
+            "My_Delight.sndh",
+            "Nasty_Song.sndh",
+            "Never_Say_Die.sndh",
+            "Ofta_ma_wat_neues.sndh",
+            "Oh_wie_schin.sndh",
+            "Once_Again.sndh",
+            "Please_Wait_While_Loading1.sndh",
+            "Please_Wait_While_Loading2.sndh",
+            "Rainy_Days.sndh",
+            "Silly_But_Happy.sndh",
+            "Spherical_Harmonies.sndh",
+            "The_Surgery.sndh",
+            "The_Surgery_(Digi).sndh",
+            "The_Vulcan.sndh",
+            "Theme_1993.sndh",
+            "Third.sndh",
+            "Tired_Guitars.sndh",
+            "Tuxtrip.sndh",
+            "XXXXX.sndh",
+            "Zuck_Lohn.sndh"
+        ]
+    },
+    "musics/Nightbeat": {
+        "directories": [],
+        "files": [
+            "Muslichip.sndh"
+        ]
+    },
+    "musics/No_More": {
+        "directories": [],
+        "files": [
+            "Amazine_4.sndh",
+            "Animal_Mine_Dentro.sndh",
+            "Blast.sndh",
+            "Cool_Day.sndh",
+            "Face.sndh",
+            "Great_Stuff_Compil_30.sndh",
+            "Great_Stuff_Compil_43_Menu.sndh",
+            "Great_Stuff_Compil_50.sndh",
+            "Great_Stuff_Compil_56.sndh",
+            "Great_Stuff_Compil_57.sndh",
+            "Groovy.sndh",
+            "Infinity.sndh",
+            "Intro.sndh",
+            "Leif_Rular.sndh",
+            "Night_Walk.sndh",
+            "No_More.sndh",
+            "No_More_2.sndh",
+            "Risk.sndh",
+            "Too_Hot.sndh",
+            "TRSI.sndh",
+            "Unexpected.sndh",
+            "Vectronix.sndh",
+            "World_of_Wonders.sndh"
+        ]
+    },
+    "musics/Oakley_Andrew": {
+        "directories": [],
+        "files": [
+            "Square_Off.sndh"
+        ]
+    },
+    "musics/Obarski_Karsten": {
+        "directories": [],
+        "files": [
+            "Dyter_7.sndh"
+        ]
+    },
+    "musics/Orbiter": {
+        "directories": [],
+        "files": [
+            "Dubmoods_MILF_(in_da_park).sndh"
+        ]
+    },
+    "musics/Outlander": {
+        "directories": [],
+        "files": [
+            "Awesome_menu_22.sndh"
+        ]
+    },
+    "musics/Oz": {
+        "directories": [],
+        "files": [
+            "Bio_Load.sndh"
+        ]
+    },
+    "musics/Page_Jason": {
+        "directories": [],
+        "files": [
+            "Fire_and_Ice.sndh",
+            "Ivan_Ironman_Offroad_Racer.sndh",
+            "Paradroid_90.sndh",
+            "Rainbow_Islands.sndh",
+            "Realms.sndh",
+            "Simulcra.sndh"
+        ]
+    },
+    "musics/Parrish_Chris": {
+        "directories": [],
+        "files": [
+            "Attack_Alien_Gun_Turrets.sndh"
+        ]
+    },
+    "musics/Peace": {
+        "directories": [],
+        "files": [
+            "Oxyron_Party.sndh"
+        ]
+    },
+    "musics/Perconti_Carlo": {
+        "directories": [],
+        "files": [
+            "Titus_the_Fox.sndh"
+        ]
+    },
+    "musics/Phelan_Patrick": {
+        "directories": [],
+        "files": [
+            "Lotus_3_Ultimate_Challenge.sndh",
+            "Nigel_Mansell_World_Champ.sndh",
+            "Premier_Manager.sndh",
+            "Zool.sndh"
+        ]
+    },
+    "musics/Phillips_John_Michael": {
+        "directories": [],
+        "files": [
+            "Eliminator.sndh",
+            "Nebulus.sndh"
+        ]
+    },
+    "musics/Piscol_Jurgen": {
+        "directories": [],
+        "files": [
+            "Hard_n_Heavy.sndh",
+            "Oxxonian.sndh",
+            "X_Out.sndh"
+        ]
+    },
+    "musics/Pleiss_Detlef": {
+        "directories": [],
+        "files": [
+            "Logical.sndh"
+        ]
+    },
+    "musics/Powapixel": {
+        "directories": [],
+        "files": [
+            "GBISTCP_Mega_4_Tune_1.sndh",
+            "GBISTCP_Mega_4_Tune_2.sndh",
+            "Mega_4_Disk_Mag.sndh"
+        ]
+    },
+    "musics/Prince_Donovan": {
+        "directories": [],
+        "files": [
+            "Hellbent.sndh"
+        ]
+    },
+    "musics/Pritchard_Nigel": {
+        "directories": [],
+        "files": [
+            "Netherworld.sndh",
+            "Thunderwing.sndh"
+        ]
+    },
+    "musics/Quinn_Mark": {
+        "directories": [],
+        "files": [
+            "Valse_Venezolano.sndh"
+        ]
+    },
+    "musics/Ralph": {
+        "directories": [],
+        "files": [
+            "Ralph_1.sndh",
+            "Ralph_2.sndh",
+            "Ralph_3.sndh",
+            "Ralph_4.sndh",
+            "Ralph_5.sndh",
+            "Ralph_6.sndh",
+            "Ralph_7.sndh",
+            "Ralph_Digi_1.sndh",
+            "Ralph_Digi_2.sndh",
+            "Ralph_Digi_3.sndh"
+        ]
+    },
+    "musics/Redzone": {
+        "directories": [],
+        "files": [
+            "The_Syndicate_Menu_65.sndh"
+        ]
+    },
+    "musics/Remalon": {
+        "directories": [],
+        "files": [
+            "Bitume.sndh",
+            "Dont _Stop.sndh",
+            "Requiem.sndh",
+            "Requiem_2.sndh",
+            "Unlimited_Choux.sndh"
+        ]
+    },
+    "musics/Remo": {
+        "directories": [],
+        "files": [
+            "Bass_Bass_Bass.sndh",
+            "Beatz.sndh",
+            "Bouncy.sndh",
+            "Fluffy_Bunny.sndh",
+            "Mia_Mia.sndh",
+            "Tough_Mothafucka.sndh"
+        ]
+    },
+    "musics/Rhino": {
+        "directories": [],
+        "files": [
+            "GBISTCP_Electronic_Images.sndh",
+            "GBISTCP_Torment.sndh",
+            "PMP_Competition_Entry.sndh",
+            "Torment_Xmas_2000_Intro.sndh",
+            "Twitching_Flannels.sndh",
+            "Xmas_2003_Intro_Song_1.sndh",
+            "Xmas_2003_Intro_Song_2.sndh",
+            "Xmas_2003_Intro_Song_3.sndh"
+        ]
+    },
+    "musics/Riff": {
+        "directories": [],
+        "files": [
+            "Bomb_Fusion.sndh",
+            "T_Bird.sndh"
+        ]
+    },
+    "musics/Robinson_Ron": {
+        "directories": [],
+        "files": [
+            "Bridge_Over_Troubled_Water.sndh"
+        ]
+    },
+    "musics/Robotham_Paul": {
+        "directories": [],
+        "files": [
+            "Space_1889.sndh"
+        ]
+    },
+    "musics/Rogers_Dave": {
+        "directories": [],
+        "files": [
+            "Exolon.sndh",
+            "Ranarama.sndh",
+            "Zynaps.sndh"
+        ]
+    },
+    "musics/Rowbotham_Paul": {
+        "directories": [],
+        "files": [
+            "Whirligig.sndh"
+        ]
+    },
+    "musics/Rubbish": {
+        "directories": [],
+        "files": [
+            "Almost_Happy.sndh",
+            "Another_Time.sndh"
+        ]
+    },
+    "musics/Rude_Kid": {
+        "directories": [],
+        "files": [
+            "Knuff_Golden_Dawn_52.sndh"
+        ]
+    },
+    "musics/Ruttman_Haiko": {
+        "directories": [],
+        "files": [
+            "Twinworld.sndh"
+        ]
+    },
+    "musics/Salkin": {
+        "directories": [],
+        "files": [
+            "Hero.sndh",
+            "Ko_ko_Kossan.sndh"
+        ]
+    },
+    "musics/Sally": {
+        "directories": [],
+        "files": [
+            "Great.sndh",
+            "Groovy.sndh",
+            "Oh_Yeah.sndh",
+            "Sally_1.sndh",
+            "Sally_2.sndh",
+            "Sally_digi.sndh",
+            "Stax_Menu _53_Tune_1.sndh",
+            "Stax_Menu _53_Tune_2.sndh",
+            "Stax_Menu _53_Tune_3.sndh",
+            "Stax_Menu _57.sndh"
+        ]
+    },
+    "musics/Sarek": {
+        "directories": [],
+        "files": [
+            "Caprain_Xeron_Theme.sndh",
+            "Improvisation.sndh",
+            "Organic_Robots.sndh",
+            "Sports_Day.sndh",
+            "Stop_Start.sndh",
+            "Witches.sndh"
+        ]
+    },
+    "musics/Scarim_Nick": {
+        "directories": [],
+        "files": [
+            "Spy_vs_Spy-Island_Caper.sndh"
+        ]
+    },
+    "musics/Scavenger": {
+        "directories": [],
+        "files": [
+            "Another_Kind_Of_Heaven.sndh",
+            "Avenger.sndh",
+            "Chaos.sndh",
+            "Crapman.sndh",
+            "Crapman_Title.sndh",
+            "Cuddy_This_Year.sndh",
+            "DBA_6_Intro.sndh",
+            "Enchanted_Jambala.sndh",
+            "Enchanted_Land_The_Sequel.sndh",
+            "Gangstar.sndh",
+            "Hal_Ninethousand.sndh",
+            "Hate.sndh",
+            "Having_a_PeriodIn3DSpace_1.sndh",
+            "Having_a_PeriodIn3DSpace_2.sndh",
+            "Heaven.sndh",
+            "Hotliner.sndh",
+            "In_Full_Effect.sndh",
+            "Jungle.sndh",
+            "Knuckle_Joe.sndh",
+            "Knuckle_Joe_2.sndh",
+            "Leif_Rular.sndh",
+            "Lets_Talk_About_Max.sndh",
+            "Meltdis.sndh",
+            "Miami_Spice.sndh",
+            "Myth.sndh",
+            "Nadaaaaaaaaaaahh.sndh",
+            "No_Muls_Rapido.sndh",
+            "Now_Loading_and_Packing.sndh",
+            "Ode_To_Stash.sndh",
+            "Only_the_Lonely.sndh",
+            "Pandora.sndh",
+            "Password.sndh",
+            "Please_Wait.sndh",
+            "Powercode.sndh",
+            "Primus.sndh",
+            "PYM_Leif_Rular.sndh",
+            "Readers_Digest.sndh",
+            "Row_Row_Row_Your_Boat.sndh",
+            "Sait_Evil.sndh",
+            "Sample_Animal_Is_Alive.sndh",
+            "Synergy_Demo_Mainmenu.sndh",
+            "Synergy_Demo_Odyssey.sndh",
+            "Synergy_Demo_Pajaro.sndh",
+            "Synergy_Demo_Reset.sndh",
+            "Synergy_Love_Theme.sndh",
+            "Synical.sndh",
+            "Unlimited_Bobs.sndh",
+            "What_Cares.sndh",
+            "What_The_Fuck.sndh",
+            "Wicked_Polygons.sndh",
+            "Working_Man.sndh"
+        ]
+    },
+    "musics/Scharvona_Justin": {
+        "directories": [],
+        "files": [
+            "Armalyte.sndh",
+            "Kid_Gloves_2.sndh",
+            "Last_Ninja_3.sndh",
+            "Lemmings.sndh",
+            "Predator_2.sndh",
+            "Robozone.sndh",
+            "Slackskin_and_Flint.sndh"
+        ]
+    },
+    "musics/Schemantix": {
+        "directories": [],
+        "files": [
+            "Enola_Gay.sndh",
+            "Zombie_Apocalypse.sndh"
+        ]
+    },
+    "musics/Schmx": {
+        "directories": [],
+        "files": [
+            "Bonebreaker.sndh",
+            "Eat_This.sndh",
+            "Highway_Up_North.sndh",
+            "Q_Dedication.sndh",
+            "Schmx_It.sndh",
+            "Take_This.sndh",
+            "Temple_Of_Shid.sndh"
+        ]
+    },
+    "musics/Schuh_Paul": {
+        "directories": [],
+        "files": [
+            "Cagney_and_Lacey.sndh"
+        ]
+    },
+    "musics/Scudds_Chris": {
+        "directories": [
+            "DMA"
+        ],
+        "files": [
+            "Chase_HQ_2_SCI.sndh",
+            "Cisco_Heat.sndh",
+            "Hydra.sndh"
+        ]
+    },
+    "musics/Scudds_Chris/DMA": {
+        "directories": [],
+        "files": [
+            "Cisco_Heat_STe.sndh"
+        ]
+    },
+    "musics/Scy": {
+        "directories": [],
+        "files": [
+            "TSCC_Mod_Compil_13.sndh",
+            "TSCC_Mod_Compil_5.sndh"
+        ]
+    },
+    "musics/Sen_Nik": {
+        "directories": [],
+        "files": [
+            "Locomotion.sndh",
+            "Oribit_2000.sndh"
+        ]
+    },
+    "musics/Severn_Andy": {
+        "directories": [],
+        "files": [
+            "Electraglide.sndh",
+            "Hwavy_Metal_Heroes.sndh",
+            "Joe_Blade.sndh",
+            "Twin_Turbos.sndh"
+        ]
+    },
+    "musics/Sevin_Yann": {
+        "directories": [],
+        "files": [
+            "Cool_Croc_Twins.sndh"
+        ]
+    },
+    "musics/Sh3": {
+        "directories": [],
+        "files": [
+            "Blakkel.sndh",
+            "Fan_Fare.sndh",
+            "House_of_the_rising_sun.sndh",
+            "In_Game.sndh",
+            "Jobil.sndh",
+            "Loader_Rewind.sndh",
+            "Outline.sndh",
+            "Pea.sndh",
+            "Saboteur_2.sndh",
+            "teh_won.sndh"
+        ]
+    },
+    "musics/Shaft": {
+        "directories": [],
+        "files": [
+            "Ninja_Spirit.sndh",
+            "Xtream_Dentro.sndh"
+        ]
+    },
+    "musics/Shields_Paul": {
+        "directories": [],
+        "files": [
+            "Airball.sndh",
+            "Jug.sndh",
+            "ST_Soccer.sndh",
+            "Tetraquest.sndh"
+        ]
+    },
+    "musics/Shockley_Tim": {
+        "directories": [],
+        "files": [
+            "Dance_of_the_Candy_Fairy.sndh"
+        ]
+    },
+    "musics/Skidz": {
+        "directories": [],
+        "files": [
+            "Hydroxid_Dentro.sndh"
+        ]
+    },
+    "musics/Skinnybone": {
+        "directories": [],
+        "files": [
+            "Special_Forces.sndh",
+            "Trex_Warrior.sndh"
+        ]
+    },
+    "musics/Skyline": {
+        "directories": [],
+        "files": [
+            "Snork_Demo_Loader_1.sndh",
+            "Snork_Demo_Loader_2.sndh",
+            "Snork_Demo_Main_Menu.sndh",
+            "Snork_Demo_Rave_YM.sndh",
+            "Snork_Intro_Big_Demo.sndh",
+            "Snork_Intro_Cuddly.sndh",
+            "Snork_Intro_European.sndh",
+            "Snork_Intro_Hemosound.sndh",
+            "Snork_Intro_Lightning.sndh",
+            "Snork_Intro_Main_Theme.sndh",
+            "Snork_Intro_Ooh_Crikey.sndh",
+            "Snork_Intro_Overdrive.sndh",
+            "Snork_Intro_PYM.sndh",
+            "Snork_Intro_So_Watt.sndh",
+            "Snork_Intro_Syntax_Terror.sndh",
+            "Snork_Intro_Transbeauce.sndh",
+            "Snork_Intro_ULM.sndh",
+            "Snork_Intro_Union.sndh",
+            "Snork_Intro_Unused.sndh",
+            "Snork_Intro_Vodka.sndh"
+        ]
+    },
+    "musics/Sonic": {
+        "directories": [],
+        "files": [
+            "Aura.sndh",
+            "Hype.sndh",
+            "It_Goes_On.sndh",
+            "Ramp.sndh",
+            "Rough.sndh"
+        ]
+    },
+    "musics/Sparky": {
+        "directories": [],
+        "files": [
+            "Evil_Force_121.sndh"
+        ]
+    },
+    "musics/Spector": {
+        "directories": [],
+        "files": [
+            "Manic_Demo_3D_Balls.sndh",
+            "Manic_Demo_Greets.sndh",
+            "Manic_Demo_Mainmenu.sndh"
+        ]
+    },
+    "musics/Starbuck": {
+        "directories": [],
+        "files": [
+            "A_New_Beginning.sndh",
+            "Alf.sndh",
+            "Atari_Party.sndh",
+            "Every_Beginning_Is_Hard.sndh",
+            "Her_5.sndh",
+            "Her_7.sndh",
+            "Hurry_Scurry.sndh",
+            "Inside.sndh",
+            "Insomina_(Cracktro_styled).sndh",
+            "Living_on_a_Video_Remix.sndh",
+            "Logical_Lvl_3.sndh",
+            "maxYMum_Time_Pressure.sndh",
+            "Memories.sndh",
+            "Mislead.sndh",
+            "Oldschool_Chip_1.sndh",
+            "One_Step_Foreward.sndh",
+            "Praying_Hands_Remix.sndh",
+            "Ready_2_Fight_(Lightw_2).sndh",
+            "Rocket.sndh",
+            "Shorty_(DHS_Compo).sndh",
+            "Sleep_Well.sndh",
+            "Sonic-Bridge_Zone.sndh",
+            "Sunrise.sndh",
+            "Urban_Shuffle.sndh",
+            "YM_Reggae.sndh"
+        ]
+    },
+    "musics/Stax": {
+        "directories": [],
+        "files": [
+            "Aciidvsh.sndh",
+            "DM.sndh",
+            "Dull.sndh",
+            "Es_Geht_Oder.sndh",
+            "Happy.sndh",
+            "Lazer.sndh",
+            "Living_On_A_Dream.sndh",
+            "Madness.sndh",
+            "Match.sndh",
+            "New_Happy_Wave.sndh",
+            "nois.sndh",
+            "Nully.sndh",
+            "Old.sndh",
+            "Revotus.sndh",
+            "Revotus_digi.sndh",
+            "Scandal.sndh",
+            "Simple.sndh",
+            "Soba.sndh",
+            "Stax_1.sndh",
+            "Stax_12.sndh",
+            "Tauris.sndh",
+            "Wild.sndh",
+            "Wutz.sndh",
+            "X_Large.sndh",
+            "X_Large_2.sndh"
+        ]
+    },
+    "musics/Stember_Rudi": {
+        "directories": [],
+        "files": [
+            "Dynablaster.sndh",
+            "The_Patrician.sndh"
+        ]
+    },
+    "musics/Stu": {
+        "directories": [],
+        "files": [
+            "8_Bit_Style.sndh",
+            "Aharman.sndh",
+            "Atari_Force.sndh",
+            "Atari_Underground_Chiptune.sndh",
+            "Audiosphere.sndh",
+            "Bee.sndh",
+            "Blip_Terror.sndh",
+            "Bomb_Squad.sndh",
+            "Bombabazooka.sndh",
+            "Bomberman.sndh",
+            "Bombermen.sndh",
+            "Bombtro.sndh",
+            "Boombaya.sndh",
+            "Chaser.sndh",
+            "Chillout.sndh",
+            "Chiprape.sndh",
+            "Craptro.sndh",
+            "Crime_Time.sndh",
+            "Danger.sndh",
+            "Dark_Angel.sndh",
+            "Dark_Season.sndh",
+            "Datadance.sndh",
+            "Dead_Hacker.sndh",
+            "Deep.sndh",
+            "Disco_ver_Atari.sndh",
+            "Drop_Da_Bomb_Live_Intro.sndh",
+            "Drop_Da_Domb.sndh",
+            "Drumbase.sndh",
+            "Dynamite.sndh",
+            "Electrox.sndh",
+            "Fex_Flicker.sndh",
+            "First_Sid.sndh",
+            "Flower.sndh",
+            "For_Real.sndh",
+            "Fuck_Machine.sndh",
+            "Funkey.sndh",
+            "Ghostrider.sndh",
+            "Grave_Disco.sndh",
+            "Hedgehog.sndh",
+            "Highway_Up_North.sndh",
+            "Hotcom.sndh",
+            "Ice_Cream_Dream.sndh",
+            "Inexistent.sndh",
+            "Insectz.sndh",
+            "Instreamintro.sndh",
+            "Intro.sndh",
+            "Kyou_Wa_Koko_Made.sndh",
+            "Last_Minute.sndh",
+            "Little_Ninja.sndh",
+            "Machine.sndh",
+            "Mad_Creature.sndh",
+            "Megablast.sndh",
+            "Mosquito.sndh",
+            "Mugicha.sndh",
+            "Mushroom.sndh",
+            "My_Melody.sndh",
+            "My_Melody_SID.sndh",
+            "Naughty_Brat.sndh",
+            "Nervous.sndh",
+            "Night_Jam.sndh",
+            "Oldskool.sndh",
+            "Panic_Intro.sndh",
+            "Pirate_Showdown.sndh",
+            "Player.sndh",
+            "Psychotic.sndh",
+            "punkey.sndh",
+            "Q_Dedication.sndh",
+            "Race_Part_Two.sndh",
+            "Ready_To_Score.sndh",
+            "Retina.sndh",
+            "Run.sndh",
+            "Sad_Day.sndh",
+            "Santa_Stu.sndh",
+            "Scooter.sndh",
+            "Shampoo_Cattle.sndh",
+            "Shin.sndh",
+            "SID_Buzzy.sndh",
+            "Singing_Robot.sndh",
+            "Space_Guzzi.sndh",
+            "Space_Intro.sndh",
+            "Spooky.sndh",
+            "ST-God_Back_From_Hell.sndh",
+            "Stereoid.sndh",
+            "Stereoid_Digi.sndh",
+            "Stereoid_Remix.sndh",
+            "Such_a_Square.sndh",
+            "Take_This.sndh",
+            "Teknoid_Bigbeat.sndh",
+            "Temple_Of_Shid.sndh",
+            "The_Invasion.sndh",
+            "The_Unexpected.sndh",
+            "Touriyanse.sndh",
+            "Twenty-Five.sndh",
+            "Tympanum.sndh",
+            "Ultimate.sndh",
+            "YMetal.sndh"
+        ]
+    },
+    "musics/T1000": {
+        "directories": [],
+        "files": [
+            "TBC_10.sndh",
+            "TBC_11.sndh",
+            "TBC_12.sndh",
+            "TBC_13.sndh",
+            "TBC_14.sndh",
+            "TBC_15.sndh",
+            "TBC_16.sndh",
+            "TBC_17.sndh",
+            "TBC_18.sndh",
+            "TBC_19.sndh",
+            "TBC_22.sndh",
+            "TBC_24.sndh",
+            "TBC_25.sndh",
+            "TBC_27.sndh",
+            "TBC_3.sndh",
+            "TBC_32.sndh",
+            "TBC_34.sndh",
+            "TBC_35.sndh",
+            "TBC_4.sndh",
+            "TBC_5.sndh",
+            "TBC_7.sndh",
+            "TBC_9.sndh",
+            "TS_1.sndh",
+            "TS_11.sndh",
+            "TS_4.sndh",
+            "TS_5.sndh",
+            "TS_6.sndh",
+            "TS_8.sndh"
+        ]
+    },
+    "musics/TPM": {
+        "directories": [],
+        "files": [
+            "Journey_to_Centre_of_Earth.sndh"
+        ]
+    },
+    "musics/Tangens": {
+        "directories": [],
+        "files": [
+            "Lettrix.sndh",
+            "Mindbomb_Demo_Foxx.sndh",
+            "Phaleon_Demo_Arsch.sndh",
+            "Synthetic_Visions_Dister.sndh",
+            "Synthetic_Visions_Hidden.sndh",
+            "Synthetic_Visions_M_Devil.sndh",
+            "Synthetic_Visions_Menu.sndh",
+            "Synthetic_Visions_P_Balls.sndh",
+            "Synthetic_Visions_Parallax.sndh",
+            "Synthetic_Visions_Scroller.sndh",
+            "The_2nd_Try_Dister.sndh",
+            "The_2nd_Try_Doc.sndh",
+            "The_2nd_Try_Landscape.sndh",
+            "The_2nd_Try_Loader.sndh",
+            "The_2nd_Try_Menu.sndh",
+            "The_2nd_Try_Multi_Colour.sndh",
+            "The_2nd_Try_Star.sndh"
+        ]
+    },
+    "musics/Tankard_Paul": {
+        "directories": [],
+        "files": [
+            "Dr_Who_Dalek_Attack.sndh"
+        ]
+    },
+    "musics/Tao": {
+        "directories": [
+            "Do_Things",
+            "Just_Buggin",
+            "Madness",
+            "Nostalgic",
+            "Songs_That_Make_You_Go_Mmh",
+            "Steps"
+        ],
+        "files": [
+            "12.sndh",
+            "13_(UCM_13).sndh",
+            "4rce.sndh",
+            "A_T_Rendermachine.sndh",
+            "Ace_2.sndh",
+            "Alive_(Birth_part_2).sndh",
+            "Birth_(TSCC_Modcomp_14).sndh",
+            "Body_Language_(UCM_16).sndh",
+            "Breath_(MSB_EIL99_Demo).sndh",
+            "Breath_2000.sndh",
+            "Building_a_Ruin_(UCM_14).sndh",
+            "Bumpsong_(DHS_Compo).sndh",
+            "Caught_a_Ray_(UCM_22).sndh",
+            "Commando_Hiscore.sndh",
+            "Competition_(EIL_99).sndh",
+            "Counted_Out_(Alive_5).sndh",
+            "Crazy_Train.sndh",
+            "Cutie_(UCM_25).sndh",
+            "Da_Chipshit.sndh",
+            "Double_Fat_(UCM_18).sndh",
+            "Eclipse_(UCM_20).sndh",
+            "End_Theme.sndh",
+            "F6_v2.sndh",
+            "Force.sndh",
+            "Groupie.sndh",
+            "High_Times_(UCM_24).sndh",
+            "Ice_Age.sndh",
+            "Ikari_Union.sndh",
+            "Intensity_200hz.sndh",
+            "Intensity_50hz.sndh",
+            "Jupiter_Probe.sndh",
+            "Lethal_Xcess_full_edit.sndh",
+            "Lin_Wu_Challenge_1.sndh",
+            "Lin_Wu_Challenge_2.sndh",
+            "Lin_Wu_Challenge_3.sndh",
+            "Lin_Wu_Challenge_4.sndh",
+            "Looniez.sndh",
+            "Lost.sndh",
+            "M143R1.sndh",
+            "Mad_Vision.sndh",
+            "Magic_Marble_ingame_1.sndh",
+            "Magic_Marble_ingame_2.sndh",
+            "Magnetic_(UCM_12).sndh",
+            "Monkey_Cage_(UCM_15).sndh",
+            "Monty_on_the_Run_Hiscore.sndh",
+            "MV_Jeu_Game.sndh",
+            "MV_Jeu_High_Score.sndh",
+            "MV_Jeu_Title.sndh",
+            "One_On_One_(UCM 11).sndh",
+            "Pop_2149_(Alive_6).sndh",
+            "Pulverise_(Alive_3).sndh",
+            "Quarterback.sndh",
+            "Quest_(Alive_8).sndh",
+            "Ride_The_Sky.sndh",
+            "Sense_(Alive_2).sndh",
+            "Shifter.sndh",
+            "Sidchimes.sndh",
+            "Silly_Shuffle.sndh",
+            "Sleepwalker.sndh",
+            "Sleepwalker_digi.sndh",
+            "Spontex_(UCM_17).sndh",
+            "Starchild_(UCM_23).sndh",
+            "Stars_digi.sndh",
+            "Still_Alive_(Alive_7).sndh",
+            "Sweety.sndh",
+            "Thing_(Alive_4).sndh",
+            "Torture_Magic_Synth.sndh",
+            "Torture_Sid_sound_Designer.sndh",
+            "Ultimate_Muzak_Demo_8730.sndh",
+            "WarrYorz.sndh",
+            "Zoolook.sndh"
+        ]
+    },
+    "musics/Tao/Do_Things": {
+        "directories": [],
+        "files": [
+            "do_things_Install.sndh",
+            "do_things_Intro.sndh",
+            "do_things_Loader.sndh",
+            "do_things_Reset.sndh"
+        ]
+    },
+    "musics/Tao/Just_Buggin": {
+        "directories": [],
+        "files": [
+            "Back_Off_Bitch.sndh",
+            "Greetings.sndh",
+            "Ice_Age.sndh",
+            "Just_Feel_It_1.sndh",
+            "Just_Feel_It_2.sndh",
+            "Line_of_Fire.sndh",
+            "Loader.sndh",
+            "Main_Menu.sndh",
+            "Ride_The_Sky.sndh",
+            "State_of_Confusion.sndh"
+        ]
+    },
+    "musics/Tao/Madness": {
+        "directories": [],
+        "files": [
+            "Madness_Loader.sndh",
+            "Madness_Stella_Polaris.sndh",
+            "Madness_Thalion_Intro.sndh"
+        ]
+    },
+    "musics/Tao/Nostalgic": {
+        "directories": [],
+        "files": [
+            "Nostalgic_Demo_3D_Intro.sndh",
+            "Nostalgic_Demo_Credits.sndh",
+            "Nostalgic_Demo_Dots.sndh",
+            "Nostalgic_Demo_Fractals.sndh",
+            "Nostalgic_Demo_GriffScreen.sndh",
+            "Nostalgic_Demo_Ikari.sndh",
+            "Nostalgic_Demo_IkariUnused.sndh",
+            "Nostalgic_Demo_Loader.sndh",
+            "Nostalgic_Demo_Mainmenu.sndh",
+            "Nostalgic_Demo_Reset.sndh"
+        ]
+    },
+    "musics/Tao/Songs_That_Make_You_Go_Mmh": {
+        "directories": [],
+        "files": [
+            "Commando_Hiscore_digi.sndh",
+            "Flash_Gordon.sndh",
+            "IK_Plus.sndh",
+            "Lightforce.sndh",
+            "Masters_of_Magic.sndh",
+            "Monty_on_the_Run_Hiscore.sndh",
+            "Rasputin.sndh",
+            "Sanxion_Loader.sndh",
+            "Spellbound.sndh",
+            "thu.sndh",
+            "Zoolook.sndh"
+        ]
+    },
+    "musics/Tao/Steps": {
+        "directories": [],
+        "files": [
+            "150_mph.sndh",
+            "Androids.sndh",
+            "Call_Me.sndh",
+            "Chicago.sndh",
+            "Cultivation.sndh",
+            "Delta_Hiscore.sndh",
+            "Entrance.sndh",
+            "Flow.sndh",
+            "For_Abyss.sndh",
+            "Ice_Age.sndh",
+            "Just_Loadin.sndh",
+            "Line_of_Fire.sndh",
+            "Mine_Sweeper.sndh",
+            "Ninja.sndh",
+            "Prelude.sndh",
+            "Ride_The_Sky.sndh",
+            "Rise.sndh",
+            "Seagulls.sndh",
+            "Stars.sndh",
+            "State_of_Confusion.sndh",
+            "Stay_Away.sndh",
+            "Steps.sndh",
+            "Sun_Riders.sndh",
+            "The_Arrival.sndh",
+            "The_Cave.sndh",
+            "The_Dancer.sndh",
+            "The_Delegate.sndh",
+            "The_Powerman.sndh",
+            "Walk_On_Ice.sndh",
+            "Wide_Awake.sndh"
+        ]
+    },
+    "musics/Taylor_Andrew": {
+        "directories": [],
+        "files": [
+            "Double_Dragon_3.sndh",
+            "Rodland.sndh"
+        ]
+    },
+    "musics/Tebirod": {
+        "directories": [],
+        "files": [
+            "No_Cooper_End_Screen.sndh",
+            "No_Cooper_Plasma.sndh",
+            "No_Cooper_Rasters.sndh",
+            "No_Cooper_Reset.sndh",
+            "No_Cooper_Vertical_Rasters.sndh"
+        ]
+    },
+    "musics/Techno": {
+        "directories": [],
+        "files": [
+            "Dentro.sndh",
+            "Dentro_1.sndh",
+            "Dentro_1a.sndh",
+            "Dentro_2.sndh",
+            "Dentro_3.sndh",
+            "Fantasy_Hidden_Screen.sndh",
+            "Graaal_Demo.sndh",
+            "Mathimatiques_Squizo_Intro.sndh",
+            "Mathimatiques_Squizop_End.sndh",
+            "Mathimatiques_Squizop_Main.sndh",
+            "Omed.sndh",
+            "Omed_1.sndh",
+            "Plucked_Goose_Dune.sndh",
+            "Plucked_Goose_Dune_2.sndh",
+            "PP_Noel.sndh",
+            "PP_Noel_2.sndh",
+            "Puppet_Show_Digi.sndh",
+            "Puppet_Show_Intro.sndh",
+            "Rigolo.sndh",
+            "Techno_5.sndh",
+            "Techno_6.sndh",
+            "Techno_7.sndh",
+            "Techno_8.sndh",
+            "x_Show_Intro.sndh"
+        ]
+    },
+    "musics/The_Fate": {
+        "directories": [],
+        "files": [
+            "3615_Gen4_Demo.sndh"
+        ]
+    },
+    "musics/The_Mind": {
+        "directories": [],
+        "files": [
+            "Dizzy_Panic.sndh",
+            "Freddys_Revenge.sndh",
+            "Genesys_Remix-Dynamika.sndh",
+            "Genesys_Remix-Main_Menu.sndh",
+            "Genesys_Remix-Monochrome.sndh",
+            "Genesys_Remix-Zeppelin.sndh",
+            "Malleus_Mallificorum.sndh",
+            "Phaelon-Aenigmatica.sndh",
+            "Repatriated_Nucleus.sndh"
+        ]
+    },
+    "musics/The_Source": {
+        "directories": [],
+        "files": [
+            "SDI_(Activision).sndh",
+            "Super_Hang_On.sndh"
+        ]
+    },
+    "musics/The_Spoon": {
+        "directories": [],
+        "files": [
+            "Nevermind.sndh"
+        ]
+    },
+    "musics/Thomas": {
+        "directories": [],
+        "files": [
+            "Flu_4kb.sndh"
+        ]
+    },
+    "musics/Thomson_Jim": {
+        "directories": [],
+        "files": [
+            "Four_Leaf_Clover.sndh"
+        ]
+    },
+    "musics/Thothy": {
+        "directories": [],
+        "files": [
+            "Heuthier.sndh",
+            "Jingle.sndh",
+            "Stille.sndh"
+        ]
+    },
+    "musics/Timbral": {
+        "directories": [],
+        "files": [
+            "Before_The_Raw.sndh",
+            "Discoman.sndh",
+            "Dubmoods_MILF_(in_da_park).sndh",
+            "Junkie2149.sndh",
+            "Mandarine_Street.sndh",
+            "Outrun_Highway_E6.sndh",
+            "RI_Rebellion.sndh",
+            "Rudolphe.sndh",
+            "Sanna_Suck_my_Nectar.sndh",
+            "YM_Still_Here.sndh"
+        ]
+    },
+    "musics/Tinman_Keith": {
+        "directories": [],
+        "files": [
+            "Batman_Caped_Crusader.sndh",
+            "Head_Over_Heels.sndh",
+            "Hudson_Hawk.sndh",
+            "Midnight_Resistance.sndh",
+            "Parasol_Stars.sndh",
+            "Recoil.sndh",
+            "Red_Heat.sndh",
+            "Robocop_2.sndh",
+            "The_Untouchables.sndh"
+        ]
+    },
+    "musics/Titan": {
+        "directories": [],
+        "files": [
+            "Great_Stuff_Compil_62.sndh"
+        ]
+    },
+    "musics/Tomchi": {
+        "directories": [],
+        "files": [
+            "1st_Extra.sndh",
+            "1st_Intro.sndh",
+            "DCKolors.sndh",
+            "DCKonboard.sndh",
+            "End_Screen.sndh",
+            "Four_Screens.sndh",
+            "Hap.sndh",
+            "Intro.sndh",
+            "Parallax.sndh",
+            "PI_Bass.sndh",
+            "Picrocconelle.sndh",
+            "PTSPRT.sndh",
+            "Scrolling_Rolling.sndh",
+            "Sinus.sndh",
+            "Vertical_DCKroll.sndh",
+            "YM_out.sndh"
+        ]
+    },
+    "musics/Tonge_Paul": {
+        "directories": [],
+        "files": [
+            "B17_Flying_Fortress.sndh",
+            "Blood_Money.sndh",
+            "Civilisation.sndh"
+        ]
+    },
+    "musics/Toodeloo": {
+        "directories": [],
+        "files": [
+            "Test_1.sndh",
+            "Test_2.sndh",
+            "Test_3.sndh"
+        ]
+    },
+    "musics/Tooseb": {
+        "directories": [],
+        "files": [
+            "Bob_Morane_Indichine.sndh"
+        ]
+    },
+    "musics/Tyan": {
+        "directories": [],
+        "files": [
+            "Bad_Boys.sndh",
+            "Bits_2.sndh",
+            "Bits_4.sndh",
+            "Cruelana.sndh",
+            "Dont_Know.sndh",
+            "Goldrunner.sndh",
+            "Harm.sndh",
+            "Julia_1.sndh",
+            "Julia_2.sndh",
+            "Julia_3.sndh",
+            "Julia_4.sndh",
+            "Julia_5.sndh",
+            "Kanabis.sndh",
+            "Last_Ninja_Remake.sndh",
+            "Loader.sndh",
+            "No_Name.sndh",
+            "Noisy_Pillars.sndh",
+            "Old.sndh",
+            "Platz_1.sndh",
+            "Platz_2.sndh",
+            "Platz_3.sndh",
+            "Revolution_Car_Racing.sndh",
+            "Revolution_Distomatic.sndh",
+            "Revolution_IchBinJaSo_Cool.sndh",
+            "Revolution_In_Game.sndh",
+            "Revolution_James_Brown.sndh",
+            "Revolution_JohnPlayerTheme.sndh",
+            "Revolution_Kiffer_Song.sndh",
+            "Revolution_Main_Menu.sndh",
+            "Revolution_Melody.sndh",
+            "Revolution_Piep_Piep_Piep.sndh",
+            "Revolution_Snmpfh.sndh",
+            "Scoopex.sndh",
+            "Senseless.sndh",
+            "Serious_1.sndh",
+            "Serious_2.sndh",
+            "Some_Sleep.sndh",
+            "Spin_On_This_Megademo.sndh",
+            "Stax_Hat_Keinen_Plan.sndh",
+            "Tyan_1.sndh",
+            "Tyan_2.sndh",
+            "Tyan_3.sndh",
+            "Ulk.sndh",
+            "Unten.sndh",
+            "XTC.sndh"
+        ]
+    },
+    "musics/Ultimatum": {
+        "directories": [],
+        "files": [
+            "Big_Kid.sndh",
+            "Choux_C.sndh",
+            "Choux_FL.sndh",
+            "Choux_H.sndh",
+            "Choux_J.sndh",
+            "Choux_K.sndh",
+            "Choux_M.sndh",
+            "Count_Zero_2.sndh",
+            "Count_Zero_3.sndh",
+            "Count_Zero_6.sndh",
+            "Curio.sndh",
+            "Kidney_Bean_Demo_Reset.sndh",
+            "Kidney_Bean_Demo_Tune_1.sndh",
+            "Kidney_Bean_Demo_Tune_10.sndh",
+            "Kidney_Bean_Demo_Tune_11.sndh",
+            "Kidney_Bean_Demo_Tune_12.sndh",
+            "Kidney_Bean_Demo_Tune_2.sndh",
+            "Kidney_Bean_Demo_Tune_3.sndh",
+            "Kidney_Bean_Demo_Tune_4.sndh",
+            "Kidney_Bean_Demo_Tune_5.sndh",
+            "Kidney_Bean_Demo_Tune_6.sndh",
+            "Kidney_Bean_Demo_Tune_7.sndh",
+            "Kidney_Bean_Demo_Tune_8.sndh",
+            "Kidney_Bean_Demo_Tune_9.sndh"
+        ]
+    },
+    "musics/Ultra": {
+        "directories": [],
+        "files": [
+            "do_things_Reset.sndh"
+        ]
+    },
+    "musics/Ultrasyd": {
+        "directories": [],
+        "files": [
+            "Bouncing_Bananas.sndh",
+            "Cats_Love_ST.sndh",
+            "Corsair_(mB_cover).sndh",
+            "Scene_Spirit.sndh"
+        ]
+    },
+    "musics/Unknown_Composer": {
+        "directories": [
+            "Music_Studio"
+        ],
+        "files": [
+            "Bach.sndh",
+            "Ballade.sndh",
+            "BSW_121.sndh",
+            "Count_Out.sndh",
+            "Dampf.sndh",
+            "Dick_Tracy.sndh",
+            "European_Soccer_Challeng.sndh",
+            "Final_Command.sndh",
+            "GLoc_ESD_Intro.sndh",
+            "Henriettas_Book_of_Spells.sndh",
+            "Heroes_of_the_Lance.sndh",
+            "Huno_Demo.sndh",
+            "International_Karate.sndh",
+            "International_Soccer_Chall.sndh",
+            "Jigsaw.sndh",
+            "Karate_Kid_Part_II.sndh",
+            "Lemmings_2_The_Tribes.sndh",
+            "Maze.sndh",
+            "Medway_Boys_11.sndh",
+            "Metrocross.sndh",
+            "Night_Dawn.sndh",
+            "Noddys_Playtime.sndh",
+            "Prelude.sndh",
+            "Pub_Trivia_Simulator.sndh",
+            "Quiz_Construction_Kit.sndh",
+            "Sailor.sndh",
+            "Sleeping_Gods_Lie.sndh",
+            "Super_Space_Invaders.sndh",
+            "Tango.sndh",
+            "Tiger_Road.sndh",
+            "Vampires_Empire.sndh",
+            "Wanderer_3D.sndh",
+            "Wolf_Pack.sndh",
+            "Wolfchild.sndh",
+            "World_Trophy_Soccer.sndh"
+        ]
+    },
+    "musics/Unknown_Composer/Music_Studio": {
+        "directories": [],
+        "files": [
+            "12_Bar_Blues.sndh",
+            "76_Trombones.sndh",
+            "Away_in_a_Manger.sndh",
+            "Ben_Hur_Chariot_Race_March.sndh",
+            "Both_Sides_Now.sndh",
+            "California_Girls.sndh",
+            "Carry_On.sndh",
+            "Cavlary.sndh",
+            "Childrens_Corner_1.sndh",
+            "Childrens_Corner_2.sndh",
+            "Childrens_Corner_3.sndh",
+            "Childrens_Corner_4.sndh",
+            "Childrens_Corner_5.sndh",
+            "Childrens_Corner_6.sndh",
+            "Daybreaker_ELO.sndh",
+            "Dont_Stop_Believing.sndh",
+            "Eastenders.sndh",
+            "Entry_of_the_Gladiators.sndh",
+            "Estrel.sndh",
+            "Every_Breath_You_Take.sndh",
+            "Eye_Sky.sndh",
+            "Flashdance_What_A_Feeling.sndh",
+            "Fur_Elise_LV_Beethoven.sndh",
+            "God_Father.sndh",
+            "Good_Time_Charlie.sndh",
+            "Goodbye_Yellow_Brick_Road.sndh",
+            "Goodnight_Saigon.sndh",
+            "Han_Solo_and_the_Princess.sndh",
+            "Have_Yourself_Merry_Xmas.sndh",
+            "He_Played_RealGood_ForFree.sndh",
+            "Hey_Hey_My_My.sndh",
+            "Homage.sndh",
+            "Honkitnk.sndh",
+            "I_am_a_Rock.sndh",
+            "I_Can_See_Clearly_Now.sndh",
+            "I_Heard_the_Bells.sndh",
+            "I_Honestly_Love_You.sndh",
+            "I_Just_Called_toSay_Love_U.sndh",
+            "It_Came_Upon_MidnightClear.sndh",
+            "Joy_to_the_World.sndh",
+            "Jump.sndh",
+            "La_Virgen_Macarena.sndh",
+            "Life_in_a_Northern_Town.sndh",
+            "Maggie_May.sndh",
+            "Michelle.sndh",
+            "Mini_Dance.sndh",
+            "Minuet_in_G.sndh",
+            "Money_for_Nothing.sndh",
+            "Music_Box_Dancer.sndh",
+            "Night_Moves.sndh",
+            "O_Little_Town_of_Bethlehem.sndh",
+            "Off_To_School_Boogie.sndh",
+            "Old_Joe_Clarks_Boogie.sndh",
+            "Orange_Blossom_Special.sndh",
+            "Pachelbels_Canon_in_D.sndh",
+            "Peter_Gunn.sndh",
+            "Rainbows.sndh",
+            "Rest Life.sndh",
+            "Ripleys_Believe_It.sndh",
+            "Rock_Island_Line.sndh",
+            "Russian.sndh",
+            "Sailors_Boogie.sndh",
+            "Santa_Clause_is_Coming.sndh",
+            "Sensation.sndh",
+            "Shes_Always_A_Woman.sndh",
+            "Sidestep.sndh",
+            "Silent_Night.sndh",
+            "Somewhere_My_Love.sndh",
+            "Soon_Its_Gonna_Rain.sndh",
+            "Sound_of_Silence.sndh",
+            "Spanish_Eyes.sndh",
+            "ST_Elsewhere.sndh",
+            "Stand_By_Me.sndh",
+            "Star_Spangled_Banner.sndh",
+            "Star_Trek.sndh",
+            "Starwars.sndh",
+            "Stealing_the_Enterprise.sndh",
+            "Studio_Music.sndh",
+            "Talk_To-Me.sndh",
+            "The_Entertainer.sndh",
+            "The_First_Noel_the_Angel.sndh",
+            "The_Imperial_Death_March.sndh",
+            "The_Spider_Dance.sndh",
+            "The_Windmills_of_Your_Mind.sndh",
+            "They_Call_It_The_Blues.sndh",
+            "Today.sndh",
+            "Two_Part_Invention.sndh",
+            "Two_Part_Invention_13.sndh",
+            "Up_on_the_House_Top.sndh",
+            "Watch_Girl.sndh",
+            "We_Are_The_World.sndh",
+            "What_Child_is_This.sndh",
+            "Where_Have_Flowers_Gone.sndh",
+            "William_Tell_Overture.sndh",
+            "Yankee_Doodle_Boy.sndh",
+            "Yodas_Theme.sndh"
+        ]
+    },
+    "musics/Vidovic_Augustin": {
+        "directories": [],
+        "files": [
+            "Ace_2.sndh",
+            "Extensor.sndh",
+            "Facile.sndh",
+            "Heidi.sndh",
+            "Human_Race_Level_4.sndh",
+            "Incommunicardo.sndh",
+            "Magic_Force.sndh",
+            "Motogoto.sndh",
+            "Music_Mon_Intro.sndh",
+            "Music_Mon_Mix.sndh",
+            "Noisy_Pillars.sndh",
+            "Pinochio.sndh",
+            "Ploing.sndh",
+            "Prime_Time.sndh",
+            "Punch.sndh",
+            "Punish_Your_Machine_loader.sndh",
+            "Pyramid.sndh",
+            "Rainbow.sndh",
+            "Robotor.sndh",
+            "So_Watt_TCB.sndh",
+            "Starpaws.sndh",
+            "Thalion.sndh",
+            "Troudbal.sndh",
+            "Whats_Your_Name.sndh",
+            "X_Out_loader.sndh",
+            "Zvo.sndh"
+        ]
+    },
+    "musics/Viking": {
+        "directories": [],
+        "files": [
+            "Ending.sndh",
+            "Fairy.sndh",
+            "North.sndh",
+            "Sugar_Fet_2_BBS.sndh"
+        ]
+    },
+    "musics/WE_Music": {
+        "directories": [],
+        "files": [
+            "Captain_Planet.sndh"
+        ]
+    },
+    "musics/Wahoo": {
+        "directories": [],
+        "files": [
+            "Yahoo.sndh"
+        ]
+    },
+    "musics/Walden_Tom": {
+        "directories": [],
+        "files": [
+            "The_Battle_of_New_Orleans.sndh"
+        ]
+    },
+    "musics/Walker_Martin": {
+        "directories": [],
+        "files": [
+            "9_Lives.sndh",
+            "Atomic_Robokid.sndh",
+            "Deuterous.sndh",
+            "Devious_Designs.sndh",
+            "DGeneration.sndh",
+            "Dragon_Breed.sndh",
+            "Final_Blow.sndh",
+            "Frenetic.sndh",
+            "Indiana_Jones_Atlantis.sndh",
+            "R_Type_2.sndh",
+            "Reach_for_the_Skies.sndh",
+            "Teenage_Mutant_Turtles.sndh"
+        ]
+    },
+    "musics/Ward_Justin": {
+        "directories": [],
+        "files": [
+            "Deadland.sndh"
+        ]
+    },
+    "musics/Weichselbaum_Markus": {
+        "directories": [],
+        "files": [
+            "Logical.sndh",
+            "The_Apprentice.sndh"
+        ]
+    },
+    "musics/Wheaton_Gary": {
+        "directories": [],
+        "files": [
+            "1990.sndh",
+            "240am.sndh",
+            "Abhon.sndh",
+            "ALB.sndh",
+            "Anth.sndh",
+            "Aru.sndh",
+            "Belgium.sndh",
+            "Bigfoot.sndh",
+            "Canticle.sndh",
+            "Canticle_2.sndh",
+            "Clem.sndh",
+            "Cocoons_of_Jusse.sndh",
+            "Colours.sndh",
+            "Daft_Tune.sndh",
+            "Dgirl.sndh",
+            "Duran.sndh",
+            "Escapade.sndh",
+            "Fresh.sndh",
+            "GDream.sndh",
+            "Goil.sndh",
+            "HeyHey.sndh",
+            "Honey_Pie.sndh",
+            "Jim.sndh",
+            "Junk.sndh",
+            "La.sndh",
+            "La_8.sndh",
+            "Liane.sndh",
+            "Lisa.sndh",
+            "Love.sndh",
+            "Lynne.sndh",
+            "Monkey.sndh",
+            "Mus.sndh",
+            "Mystic.sndh",
+            "New_Car.sndh",
+            "New_Relg.sndh",
+            "Old.sndh",
+            "Perry.sndh",
+            "Picko.sndh",
+            "Ramo.sndh",
+            "Solar.sndh",
+            "Steel.sndh",
+            "Tangerine_Dream_1.sndh",
+            "Tangerine_Dream_2.sndh",
+            "Trotsky_Crazy.sndh",
+            "Unfinished.sndh",
+            "What.sndh",
+            "Wilbu.sndh",
+            "Wombling_Song.sndh",
+            "Young.sndh"
+        ]
+    },
+    "musics/Wheterill_Steve": {
+        "directories": [],
+        "files": [
+            "Flimbos_Quest.sndh"
+        ]
+    },
+    "musics/Whittaker_David": {
+        "directories": [],
+        "files": [
+            "Advanced_Rugby_Simulator.sndh",
+            "APB.sndh",
+            "Archipelagos.sndh",
+            "Army_Moves.sndh",
+            "Back_to_the_Future_2.sndh",
+            "Bad_Company.sndh",
+            "Beverly_Hills_Cop.sndh",
+            "Beyond_The_Ice_Palace.sndh",
+            "BMX_Simulator.sndh",
+            "Buffalo_Bill.sndh",
+            "Chips_Challenge.sndh",
+            "Chronoquest.sndh",
+            "Cloud_Kingdoms.sndh",
+            "Cosmic_Pirates.sndh",
+            "Crossbow_William_Tell.sndh",
+            "Custodian.sndh",
+            "Dan_Dare.sndh",
+            "Days_of_Thunder.sndh",
+            "Defender_of_the_Crown.sndh",
+            "Dogs_of_War.sndh",
+            "Emlyn_Hughes_Football.sndh",
+            "Empire_Strikes_Back.sndh",
+            "Enduro_Racer.sndh",
+            "Eye_of_Horus.sndh",
+            "Fire_and_Brimstone.sndh",
+            "First_Person_Pinball.sndh",
+            "Future_Sports.sndh",
+            "Garfield.sndh",
+            "Gazza_2.sndh",
+            "Gold_of_the_Aztecs.sndh",
+            "Golden_Axe.sndh",
+            "Goldrunner_2.sndh",
+            "Grimblood.sndh",
+            "Hunter_Killer.sndh",
+            "IronLord.sndh",
+            "Jaws.sndh",
+            "Jupiter_Master_Drive.sndh",
+            "Kid_Gloves_2.sndh",
+            "Knightmare.sndh",
+            "Leathernecks.sndh",
+            "Licence_to_Kill.sndh",
+            "Menace.sndh",
+            "Millennium_2_2.sndh",
+            "Mr_Heli.sndh",
+            "Ninja_Mission.sndh",
+            "Nitro_Boost_Challenge.sndh",
+            "Obliterator.sndh",
+            "Pandora.sndh",
+            "Panther.sndh",
+            "Platoon.sndh",
+            "Quadralien.sndh",
+            "Rampage.sndh",
+            "Renaissance.sndh",
+            "Renegade.sndh",
+            "Renegade_Tather_Remix.sndh",
+            "Return_to_Genesis.sndh",
+            "Road_Blasters.sndh",
+            "Skateball.sndh",
+            "Slapfight.sndh",
+            "Snoopy.sndh",
+            "Snowstrike.sndh",
+            "Solomons_Key.sndh",
+            "Speedball.sndh",
+            "Spitting_Image.sndh",
+            "Sporting_Triangles.sndh",
+            "Starblaze.sndh",
+            "Starray.sndh",
+            "Startrek.sndh",
+            "Starwars.sndh",
+            "Stormbringer.sndh",
+            "Stormtrooper.sndh",
+            "Super_Wonderboy.sndh",
+            "Supremacy.sndh",
+            "Tetris.sndh",
+            "The_Real_Ghostbusters.sndh",
+            "Thundercats.sndh",
+            "Total_Recall.sndh",
+            "Trantor.sndh",
+            "Verminator.sndh",
+            "Voodoo_Nightmare.sndh",
+            "Warlock_the_Avenger.sndh",
+            "Weird_Dreams.sndh",
+            "World_Class_Rugby.sndh",
+            "Wrath_of_the_Demon.sndh",
+            "Wreckers.sndh",
+            "Xenon.sndh",
+            "Xenon_2.sndh",
+            "Zombi.sndh"
+        ]
+    },
+    "musics/Williams_Tony": {
+        "directories": [],
+        "files": [
+            "Chuckie_Egg.sndh",
+            "Chuckie_Egg_2.sndh",
+            "Edd_The_Duck.sndh",
+            "Espana_92.sndh",
+            "Future_Basketball.sndh",
+            "International_Ice_Hockey.sndh",
+            "Judge_Dredd.sndh",
+            "Narc.sndh",
+            "Nevermind.sndh",
+            "Ninja_Warriors.sndh",
+            "Nitro.sndh",
+            "Obitus.sndh",
+            "Oh_No_More_Lemmings.sndh",
+            "Pang.sndh",
+            "Shadow_of_the_Beast_2.sndh",
+            "Sharkeys_Moll.sndh",
+            "Shinobi.sndh",
+            "Smash_TV.sndh",
+            "Soldier_of_Light.sndh",
+            "Super_Monaco_Grand_Prix.sndh",
+            "Teenage_Mutant_HeroTurtles.sndh",
+            "Viz.sndh"
+        ]
+    },
+    "musics/Wilson_Mark": {
+        "directories": [],
+        "files": [
+            "Bonanza_Brothers.sndh",
+            "Cloud_Kingdom_Dizzy.sndh",
+            "Round_the_Bend.sndh"
+        ]
+    },
+    "musics/Winogradoff_Michel": {
+        "directories": [],
+        "files": [
+            "Builder_Land.sndh"
+        ]
+    },
+    "musics/Wolfgang": {
+        "directories": [],
+        "files": [
+            "ICS_Intro.sndh"
+        ]
+    },
+    "musics/Wootan_Harry": {
+        "directories": [],
+        "files": [
+            "Desafinado.sndh",
+            "Fairest_Lord_Jesus.sndh"
+        ]
+    },
+    "musics/Zabutom": {
+        "directories": [],
+        "files": [
+            "Drumnbice.sndh",
+            "Pampradion_livebeat.sndh",
+            "Space_Journey_(extended).sndh",
+            "Starfighter.sndh",
+            "ym2149_oh_sexy_thing_edit.sndh"
+        ]
+    },
+    "musics/ear_dis": {
+        "directories": [],
+        "files": [
+            "peagasm.sndh"
+        ]
+    },
+    "musics/gwEm": {
+        "directories": [
+            "DMA"
+        ],
+        "files": [
+            "1K_ller.sndh",
+            "Acidic_Tears.sndh",
+            "Ancient_Art_of_Chiptune.sndh",
+            "Bangin_Nights.sndh",
+            "Chipping_for_Cash.sndh",
+            "Coding_on_E.sndh",
+            "Crikey_wot_a_tune.sndh",
+            "Disco_Snax.sndh",
+            "Forever_Ardcore.sndh",
+            "Full_On_(re_version).sndh",
+            "Future_Gone_Wrong.sndh",
+            "Golden_Years_(orig).sndh",
+            "Golden_Years_(used).sndh",
+            "Good_Old_Fashioned_Blipp.sndh",
+            "Hardcore_Will_Never_Die.sndh",
+            "Love_Washed_Away_the_Tide.sndh",
+            "maxYMise.sndh",
+            "micromusic_radio_Jingle.sndh",
+            "Outlined.sndh",
+            "Oxygene_Loader.sndh",
+            "Raid_The_Tower.sndh",
+            "Raid_The_Tower_(non-loop).sndh",
+            "Ravin.sndh",
+            "Song_4_Hanah.sndh",
+            "Space_Trip_(dub_mix).sndh",
+            "Tubular_Crusade.sndh",
+            "Tune_4_My_Broken_Atari.sndh",
+            "ULS_Loader.sndh",
+            "Underground_Liket_Wombles.sndh",
+            "YM303_Ruffneck.sndh"
+        ]
+    },
+    "musics/gwEm/DMA": {
+        "directories": [],
+        "files": [
+            "Garage_Days_Revisited.sndh"
+        ]
+    },
+    "musics/naPO": {
+        "directories": [],
+        "files": [
+            "AC_2006.sndh"
+        ]
+    }
+}
