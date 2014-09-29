@@ -83,6 +83,8 @@
         this.current_track = window.location.hash;
 
         this.createPlaylistDisplay();
+        this.selectCurrentTrack();
+
         this.playSong();
       };
 
@@ -164,7 +166,7 @@
 
           $(".songs-list").html('<ul>' + markup + '</ul>');
 
-          $(".song").click(function(){
+          $(".song-selector").click(function(){
             var track = $(this).attr('data-track');
             self.current_track = '#' + track;
             window.location.hash = track;
@@ -190,7 +192,7 @@
           if (this.songs_hierarchy[walking_directory]['files'].length > 0) {
             this.songs_hierarchy[walking_directory]['files'].forEach(function(file) {
               var link = walking_directory + '/' + file;
-              markup += '<li class="song-selector"><a class="song" data-track="' + link + '" href="#' + link + '">' + file + '</a></li>';
+              markup += '<li class="song-selector" data-track="' + link + '"><a class="song" href="#' + link + '">' + file + '</a></li>';
             });
           }
 
@@ -211,6 +213,9 @@
         updateTrackInfos: function() {
           var trackInfos = player.title + ' by <em class="bg-success">' + player.author + '</em>';
           $(".desc").html(trackInfos);
+        },
+        selectCurrentTrack: function() {
+          // @TODO
         }
       };
 
