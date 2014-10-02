@@ -22,13 +22,24 @@
   </head>
   <body>
 
-
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-        <div class="container">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">SNDH Player</a>
+        </div>
 
-            <a class="navbar-brand" href="#">SNDH player</a>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
             <a type="button" class="navbar-left btn navbar-btn btn-default btn-player action-prev">
-                <span class="glyphicon glyphicon-backward"></span>
+                <span class="glyphicon glyphicon-step-backward"></span>
             </a>
             <a type="button" class="navbar-left btn navbar-btn btn-default btn-player action-play">
                 <span class="glyphicon glyphicon-play"></span>
@@ -40,23 +51,25 @@
                 <span class="glyphicon glyphicon-stop"></span>
             </a>
             <a type="button" class="navbar-left btn navbar-btn btn-default btn-player action-next">
-                <span class="glyphicon glyphicon-forward"></span>
+                <span class="glyphicon glyphicon-step-forward"></span>
             </a>
 
-            <p class="navbar-text tracks"></p>
+            <span class="navbar-text tracks"></span>
 
-        </div>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
     </nav>
-    <div class="container">
+
+    <canvas id="spectrum" class="fixed"></canvas>
+
+    <div class="container below">
         <div class="row">
             <div>
-                <canvas id="spectrum"></canvas>
-            </div>
-            </div>
                 <div class="list-group songs-list css-treeview"></div>
             </div>
         </div>
     </div>
+
 
     <nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
         <div class="container">

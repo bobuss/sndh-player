@@ -3,14 +3,24 @@ body {
     padding-bottom: 70px;
 }
 
+.fixed {
+    position: fixed;
+    top: 50px;
+    z-index: 10;
+}
+
+.below {
+    position:absolute;
+    top : 206px;
+}
 
 
 .song-selector:hover {
-	background: #AAD;
+    background: #AAD;
 
 }
 
 .song-selector:hover a{
-	text-decoration: none;
-	color: white;
+    text-decoration: none;
+    color: white;
 }

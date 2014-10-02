@@ -46,8 +46,7 @@
       }
 
       function doOnEnd() {
-        audio.playNextSong();
-        player.setPauseMode(false);
+        audio.stopSong();
       }
 
       function doOnTrackChange() {
@@ -270,7 +269,7 @@
           this.ctxSpectrum.fillStyle = 'rgb(255, 255, 255)';
           this.ctxSpectrum.fillRect(0, 0, this.WIDTH, this.HEIGHT);
 
-          var step = 2;
+          var step = 5;
           var barWidth = (this.WIDTH / this.bufferLength) * step;
           var barHeight;
           var x = 0;
