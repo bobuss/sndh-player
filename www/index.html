@@ -27,17 +27,35 @@
         <div class="container">
 
             <a class="navbar-brand" href="#">SNDH player</a>
-            <a type="button" class="btn navbar-btn btn-default btn-player action-stop">
-                <span class="glyphicon glyphicon-stop"></span>
+            <a type="button" class="navbar-left btn navbar-btn btn-default btn-player action-prev">
+                <span class="glyphicon glyphicon-backward"></span>
             </a>
-            <a type="button" class="btn navbar-btn btn-default btn-player action-play">
+            <a type="button" class="navbar-left btn navbar-btn btn-default btn-player action-play">
                 <span class="glyphicon glyphicon-play"></span>
             </a>
+            <a type="button" class="navbar-left btn navbar-btn btn-default btn-player action-pause">
+                <span class="glyphicon glyphicon-pause"></span>
+            </a>
+            <a type="button" class="navbar-left btn navbar-btn btn-default btn-player action-stop">
+                <span class="glyphicon glyphicon-stop"></span>
+            </a>
+            <a type="button" class="navbar-left btn navbar-btn btn-default btn-player action-next">
+                <span class="glyphicon glyphicon-forward"></span>
+            </a>
+
+            <p class="navbar-text tracks"></p>
 
         </div>
     </nav>
     <div class="container">
-        <div class="list-group songs-list css-treeview"></div>
+        <div class="row">
+            <div>
+                <canvas id="spectrum"></canvas>
+            </div>
+            </div>
+                <div class="list-group songs-list css-treeview"></div>
+            </div>
+        </div>
     </div>
 
     <nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">

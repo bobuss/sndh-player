@@ -41,7 +41,7 @@
       var defaultSongTimeout = 15*60*1000;
 
       function doOnLoad() {
-        audio.initialAudioSetup();
+        gfx.reqAnimationFrame();
         audio.startMusicPlayback();
       }
 
@@ -80,10 +80,10 @@
 
         this.current_directory = 'musics';
         this.songs_hierarchy = songs_hierarchy;
-        this.current_track = window.location.hash;
+        this.currentSong = window.location.hash;
+        this.currentTrack = 1;
 
         this.createPlaylistDisplay();
-        this.selectCurrentTrack();
 
         this.playSong();
       };
@@ -113,15 +113,23 @@
             this.analyzerNode.connect(this.audioCtx.destination);
           }
         },
-        playNextSong: function() {
-          this.playSong(someSong);
+        playNextTrack: function() {
+          if (this.currentTrack < player.numberOfTracks) {
+            this.currentTrack++;
+          }
+          player.playSong(this.currentTrack);
+          this.updateTrackInfos();
         },
-        playPreviousSong: function() {
-          this.playSong(someSong);
+        playPreviousTrack: function() {
+          if (this.currentTrack > 1 ) {
+            this.currentTrack--;
+          }
+          player.playSong(this.currentTrack);
+          this.updateTrackInfos();
         },
         playSong: function() {
           var self = this;
-          var arr = this.current_track.split("#");
+          var arr = this.currentSong.split("#");
           if (arr.length == 2) {
             var someSong = arr[1];
           } else {
@@ -142,11 +150,10 @@
         },
         togglePause: function() {
           player.isPaused = !player.isPaused;
-          if (!player.isPaused) {
-            $(".action-pause span").attr("class", "glyphicon glyphicon-pause");
-          } else {
-            $(".action-pause span").attr("class", "glyphicon glyphicon-play");
-          }
+        },
+        stopSong: function() {
+          player.playSong(this.currentTrack);
+          player.setPauseMode(true);
         },
         startMusicPlayback: function() {
           player.setPauseMode(false);
@@ -168,7 +175,7 @@
 
           $(".song-selector").click(function(){
             var track = $(this).attr('data-track');
-            self.current_track = '#' + track;
+            self.currentSong = '#' + track;
             window.location.hash = track;
             self.playSong();
             return false;
@@ -213,10 +220,75 @@
         updateTrackInfos: function() {
           var trackInfos = player.title + ' by <em class="bg-success">' + player.author + '</em>';
           $(".desc").html(trackInfos);
+          $(".tracks").html(this.currentTrack + ' / ' + player.numberOfTracks);
         },
-        selectCurrentTrack: function() {
-          // @TODO
-        }
+      };
+
+      Graphix = function(audio) {
+
+        this.audio = audio;
+
+        this.WIDTH = 400;
+        this.HEIGHT = 256;
+
+
+        var canvasSpectrum = document.getElementById("spectrum"); //$('.spectrum');
+        this.ctxSpectrum = canvasSpectrum.getContext('2d');
+        canvasSpectrum.width = this.WIDTH;
+
+        //initialize analyser
+        this.audio.analyzerNode.fftSize = 1024 ;
+        this.audio.analyzerNode.smoothingTimeConstant = 0.7;
+        this.bufferLength = this.audio.analyzerNode.frequencyBinCount;
+        this.dataArray = new Uint8Array(this.bufferLength);
+
+        this.ctxSpectrum.clearRect(0, 0, this.WIDTH, this.HEIGHT);
+
+        this.gradients = {};
+      };
+
+      Graphix.prototype = {
+        reqAnimationFrame: function() {
+          window.requestAnimationFrame(this.redrawSpectrum.bind(this));
+        },
+        gradient: function(i) {
+          if (!(i in this.gradients)) {
+            var gradient = this.ctxSpectrum.createLinearGradient(0, 0, 0, this.HEIGHT);
+            gradient.addColorStop(1, 'rgb(0, 0, 0)');
+            gradient.addColorStop(0.75, 'rgb(255, 0, ' + i + ')');
+            gradient.addColorStop(0.25, 'rgb(255, 255, ' + i + ')');
+            gradient.addColorStop(0, 'rgb(255, 255, 255)');
+            this.gradients[i] = gradient;
+          }
+          return this.gradients[i];
+
+        },
+        redrawSpectrum: function() {
+          this.reqAnimationFrame();
+
+          this.audio.analyzerNode.getByteFrequencyData(this.dataArray);
+          this.ctxSpectrum.fillStyle = 'rgb(255, 255, 255)';
+          this.ctxSpectrum.fillRect(0, 0, this.WIDTH, this.HEIGHT);
+
+          var step = 2;
+          var barWidth = (this.WIDTH / this.bufferLength) * step;
+          var barHeight;
+          var x = 0;
+
+          for(var i = 5; i < this.bufferLength; i += step) {
+            barHeight = this.dataArray[i];
+
+            this.ctxSpectrum.fillStyle = this.gradient(i);
+            this.ctxSpectrum.fillRect(x, this.HEIGHT - barHeight, barWidth, barHeight);
+
+            x += barWidth + 1;
+          }
+
+        },
+        text: function(ctx, text, x, y) {
+          ctx.strokeText(text, x, y);
+          ctx.fillText(text, x, y);
+        },
       };
 
 
@@ -230,15 +302,15 @@
             ev.preventDefault();
           break;
 
-          // up key : play previous song
-          case 38:
-            //audio.playPreviousSong();
+          // left key : play previous track
+          case 37:
+            audio.playPreviousTrack();
             ev.preventDefault();
           break;
 
-          // up key : play next song
-          case 40:
-            //audio.playNextSong();
+          // right key : play next track
+          case 39:
+            audio.playNextTrack();
             ev.preventDefault();
           break;
         }
@@ -246,6 +318,10 @@
       });
 
       $(".action-stop").click(function(){
+        audio.stopSong();
+      })
+
+       $(".action-pause").click(function(){
         audio.togglePause();
       })
 
@@ -253,13 +329,24 @@
         audio.playSong();
       });
 
+      $(".action-next").click(function(){
+        audio.playNextTrack();
+      });
+
+      $(".action-prev").click(function(){
+        audio.playPreviousTrack();
+      });
+
+
       $(window).on('hashchange', function() {
-        audio.current_track = window.location.hash;
+        audio.currentSong = window.location.hash;
         audio.playSong();
         return false;
       });
 
       var audio = new Audio(songs_hierarchy);
+      audio.initialAudioSetup()
+      var gfx = new Graphix(audio);
       audio.togglePause();
 
     });
